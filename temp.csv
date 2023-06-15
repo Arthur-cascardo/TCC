@@ -1,0 +1,451 @@
+1,0,1,Dr.Alcino Clementino Lameiras,Medicina Esportiva,612
+2,0,1,Dr.Marcus Boto Carvalheiro,Medicina de Tráfego,1281
+3,0,1,Dr.Melissa Penteado Lago,Alergia e Imunologia,1188
+4,0,1,Dr.Stefan Castilhos Colares,Psiquiatria,1481
+5,0,1,Dr.Pandora Pederneiras Espírito Santo,Cirurgia do Aparelho Digestivo,1682
+6,0,1,Dr.Diego Aleixo Bulhosa,Cirurgia Plástica,1518
+7,0,1,Dr.Ari Caçoilo Veleda,Endocrinologia e Metabologia,1276
+8,0,1,Dr.Neymar Paula Sarmento,Cirurgia da Mão,1312
+9,0,1,Dr.Cecília Lira Silvestre,Cirurgia Pediátrica,1358
+10,0,1,Dr.Lola Belchior Parente,Cirurgia Pediátrica,1626
+11,0,1,Dr.Destiny Bacelar Vale,Dermatologia,1054
+12,0,1,Dr.Luena Palmeira Resende,Medicina de Tráfego,1402
+13,0,2,Dr.Poliana Peralta Matos,Geriatria,635
+14,0,2,Dr.Mohammad Frade Cedro,Geriatria,1700
+15,0,2,Dr.Catalina Madeira Cabral,Coloproctologia,640
+16,0,2,Dr.Carmo Taveiros Franqueira,Geriatria,1505
+17,0,2,Dr.Arina Inês Resende,Cirurgia Cardiovascular,1110
+18,0,2,Dr.Giovanni Vilas Boas Cirne,Medicina de Família e Comunidade,1109
+19,0,2,Dr.Aurora Malta Garcez,Medicina de Tráfego,1757
+20,0,2,Dr.Sílvia Carrilho Pestana,Patologia,1303
+21,0,2,Dr.Rubim Monteiro Cantanhede,Reumatologia,1387
+22,0,2,Dr.Kelvin Saldanha Queirós,Nefrologia,1746
+23,0,2,Dr.Carminho Orriça Pádua,Anestesiologista,724
+24,0,2,Dr.Adonai Leão Peseiro,Genética Médica,883
+25,0,3,Dr.Lua Santos Salgueiro,Medicina Física e Reabilitação,1069
+26,0,3,Dr.Máximo Conde Cidreira,Medicina Esportiva,1674
+27,0,3,Dr.Maxim Regueira Cedraz,Oncologia Clínica,1221
+28,0,3,Dr.Samira Eanes Malta,Cirurgia Pediátrica,1454
+29,0,3,Dr.Paulo Letras Vilar,Neurologia,1117
+30,0,3,Dr.Letícia Mota Quadros,Cirurgia Cardiovascular,1783
+31,0,3,Dr.Zoe Flores Almada,Infectologia,1393
+32,0,3,Dr.Ezequiel Teixeira Araújo,Radiologia,1224
+33,0,3,Dr.Renato Estrela Cerveira,Cirurgia de Cabeça e Pescoço,953
+34,0,3,Dr.Hao Melo Mourinho,Reumatologia,1033
+35,0,3,Dr.Tyron Pimentel Zarco,Otorrinolaringologia,1379
+36,0,3,Dr.Eusébio Bairros Sacadura,Medicina Preventiva e Social,1487
+37,0,3,Dr.Leo Tavares Temes,Cirurgia Oncológica,670
+38,0,3,Dr.Carol Quintal Ninharelhos,Hematologia e Hemoterapia,951
+39,0,3,Dr.Janice Moutinho Noite,Ginecologia e Obstetrícia,1463
+40,0,3,Dr.Jia Melo Matoso,Angiologia,659
+41,0,3,Dr.Vladimir Cavadas Carromeu,Nefrologia,1488
+42,0,3,Dr.Aryan Santana Coelho,Genética Médica,1754
+43,0,3,Dr.Radija Cadavez Cotrim,Patologia Clínica,1237
+44,0,3,Dr.Kimberly Meira Sobral,Genética Médica,919
+45,0,3,Dr.Samuel Jesus Bettencourt,Medicina de Tráfego,1119
+46,0,3,Dr.Prapti Vilela Coimbra,Nefrologia,1297
+47,0,3,Dr.Amelia Cirne Quinta,Mastologia,1422
+48,0,3,Dr.Tierri Varão Sandinha,Infectologia,996
+49,0,4,Dr.Evandro Chamusca Raposo,Angiologia,660
+50,0,4,Dr.Sérgio Osório Brás,Homeopatia,1116
+51,0,4,Dr.Yaqi Caiado Passarinho,Medicina Legal e Perícia Médica,1725
+52,0,4,Dr.Soraia Keil Faia,Oftalmologia,1238
+53,0,4,Dr.Hermano Naves Rico,Oncologia Clínica,1262
+54,0,4,Dr.Maísa Teves Anlicoara,Pneumologia,1530
+55,0,4,Dr.Máximo Cangueiro Vilas Boas,Nefrologia,1176
+56,0,4,Dr.Zélia Graça Canhão,Cirurgia do Aparelho Digestivo,1132
+57,0,4,Dr.Sol Simão Franca,Patologia,1124
+58,0,4,Dr.Omar Caeira Lucena,Psiquiatria,786
+59,0,4,Dr.Matheus Piteira Quental,Dermatologia,1676
+60,0,4,Dr.Eliana Muniz Salazar,Cirurgia Oncológica,1730
+61,0,5,Dr.Ellie Valim Júdice,Neurologia,719
+62,0,5,Dr.Taynara Baía Bentes,Medicina de Emergência,1064
+63,0,5,Dr.Briana Rios Cangueiro,Endocrinologia e Metabologia,712
+64,0,5,Dr.Vítor Pimentel Redondo,Medicina de Família e Comunidade,1075
+65,0,5,Dr.Zaqueu Prestes Passos,Cirurgia Vascular,1018
+66,0,5,Dr.Carina Pestana Pais,Patologia Clínica,1788
+67,0,5,Dr.Frederica Pacheco Osório,Cardiologia,1264
+68,0,5,Dr.Mellyssa Soverosa Fitas,Patologia Clínica,720
+69,0,5,Dr.Calebe Corte-Real Guilheiro,Cirurgia Cardiovascular,633
+70,0,5,Dr.Catalina Junqueira Durães,Nefrologia,1175
+71,0,5,Dr.Liam Pais Tristão,Nefrologia,1082
+72,0,6,Dr.Darius Paulos Cabeça de Vaca,Geriatria,802
+73,0,6,Dr.Damien Ginjeira Noronha,Dermatologia,729
+74,0,6,Dr.Eva Cirne Rosário,Medicina Preventiva e Social,1151
+75,0,6,Dr.Marlene Pegado Canário,Cirurgia Vascular,1059
+76,0,6,Dr.Zion Moreira Castro,Medicina Preventiva e Social,1461
+77,0,6,Dr.Iris Mata Morgado,Neurocirurgia,1318
+78,0,6,Dr.Jack Parreir Palma,Cirurgia de Cabeça e Pescoço,856
+79,0,6,Dr.Filomena Maciel Mascarenhas,Anestesiologista,1680
+80,0,6,Dr.Louisa Sardo Ornelas,Medicina Preventiva e Social,986
+81,0,6,Dr.Lúcia Manso Carmona,Medicina Esportiva,1716
+82,0,6,Dr.Maxim Angelim Rico,Cirurgia Torácica,660
+83,0,6,Dr.Dilan Neres Grangeia,Oncologia Clínica,1503
+84,0,6,Dr.Hawa Pedroso Lustosa,Medicina Intensiva,1384
+85,0,6,Dr.Janilson Pires Carvalhal,Medicina de Tráfego,1638
+86,0,7,Dr.Daniela Viana Picanço,Endoscopia,1662
+87,0,7,Dr.Lorena Ventura Amaral,Psiquiatria,618
+88,0,7,Dr.Janice Lamenha Graça,Neurocirurgia,1531
+89,0,7,Dr.Anastácia Lousã Antunes,Geriatria,758
+90,0,7,Dr.Dalila Anlicoara Zambujal,Medicina de Tráfego,1107
+91,0,7,Dr.Rute Carvalhosa Chaves,Mastologia,1128
+92,0,7,Dr.Bento Oleiro Frias,Cirurgia Cardiovascular,649
+93,0,7,Dr.Alice Leiria Eiró,Nefrologia,939
+94,0,7,Dr.Nour Caiado Rico,Ginecologia e Obstetrícia,1555
+95,0,7,Dr.Alvin Ferro Furquim,Cirurgia do Aparelho Digestivo,1783
+96,0,8,Dr.KellY Seabra Keil,Ginecologia e Obstetrícia,1754
+97,0,8,Dr.Melânia Paredes Resende,Neurologia,1133
+98,0,8,Dr.Jacinto Castilhos Delgado,Cirurgia de Cabeça e Pescoço,1600
+99,0,8,Dr.Máximo Mieiro Abreu,Neurocirurgia,730
+100,0,8,Dr.Luis Corte-Real Tristão,Hematologia e Hemoterapia,791
+101,0,8,Dr.Zhen Curvelo Guerra,Medicina Esportiva,1480
+102,0,8,Dr.Simona Caçoilo Patrício,Oncologia Clínica,989
+103,0,8,Dr.Ana Freitas Franqueira,Otorrinolaringologia,1601
+104,0,8,Dr.Mara Maranhão Curado,Cirurgia Plástica,1336
+105,0,8,Dr.Martinho Figueiroa Igrejas,Geriatria,969
+106,0,8,Dr.Josefa Lessa Cabeça,Medicina do Trabalho,628
+107,0,8,Dr.Rayanne Antunes Medeiros,Geriatria,1609
+108,0,9,Dr.Angela Figueiró Fitas,Medicina Legal e Perícia Médica,1205
+109,0,9,Dr.Hayla Caeiro Cabreira,Nefrologia,784
+110,0,9,Dr.Sílvia Mansilha Mourão,Radioterapia,775
+111,0,9,Dr.Rúbia Inácio Caminha,Urologia,751
+112,0,9,Dr.Bela Rico Telinhos,Cirurgia Pediátrica,1578
+113,0,9,Dr.Kayla Neiva Figueira,Neurocirurgia,1537
+114,0,9,Dr.Nikolai Gois Mourinho,Clínica Médica,724
+115,0,9,Dr.Alba Negromonte Pastana,Cirurgia Vascular,1518
+116,0,10,Dr.Alexandr Pimenta Tinoco,Mastologia,1609
+117,0,10,Dr.Grace Neres Narvais,Cirurgia de Cabeça e Pescoço,1157
+118,0,10,Dr.Emilly Alves Peseiro,Psiquiatria,1656
+119,0,10,Dr.Hayla Farinha Martinho,Nefrologia,964
+120,0,10,Dr.Kiamy Franca Castelo,Homeopatia,1037
+121,0,10,Dr.Josiane Malho Lages,Anestesiologista,1058
+122,0,10,Dr.Fábia Ventura Reino,Cardiologia,1236
+123,0,10,Dr.Maya Anlicoara Ruas,Medicina do Trabalho,1093
+124,0,10,Dr.Sophie Bulhões Miguel,Angiologia,1743
+125,0,11,Dr.Esther Filipe Homem,Medicina Física e Reabilitação,757
+126,0,11,Dr.Bilal Quinterno Vilaverde,Urologia,1086
+127,0,11,Dr.Aicha Ulhoa Regueira,Pneumologia,1407
+128,0,11,Dr.Mario Bentes Mainha,Genética Médica,617
+129,0,11,Dr.Tito Boeira Barrocas,Medicina Esportiva,1553
+130,0,11,Dr.Khadija Sobral Gaspar,Medicina Física e Reabilitação,1139
+131,0,11,Dr.Luiz Granja Vilanova,Gastroenterologia,868
+132,0,11,Dr.Tyler Zambujal Curado,Oncologia Clínica,1208
+133,0,11,Dr.Ndeye Falcão Domingues,Patologia Clínica,1362
+134,0,11,Dr.Ezra Lobato Barreno,Cirurgia do Aparelho Digestivo,1626
+135,0,11,Dr.Rúben Aleixo Jesus,Clínica Médica,1711
+136,0,11,Dr.Guilherme Prada Mourão,Ginecologia e Obstetrícia,953
+137,0,12,Dr.Destiny Milheiro Valido,Radioterapia,724
+138,0,12,Dr.Laurindo Bettencourt Taveira,Pneumologia,1288
+139,0,12,Dr.Kyle Afonso Palos,Cirurgia Vascular,1484
+140,0,12,Dr.Mohammed Gorjão Parafita,Dermatologia,1794
+141,0,12,Dr.Luiz Melgaço Casqueira,Patologia,1074
+142,0,12,Dr.Marília Mota Aguiar,Medicina Física e Reabilitação,1272
+143,0,12,Dr.Johnny Bernardes Natal,Reumatologia,1369
+144,0,12,Dr.Fernanda Quintana Faro,Cirurgia Cardiovascular,1739
+145,0,13,Dr.Letízia Linhares Sardinha,Ginecologia e Obstetrícia,1283
+146,0,13,Dr.Cristiano Grangeia Baía,Cirurgia Pediátrica,1073
+147,0,13,Dr.Luiz Fortes Roriz,Pneumologia,1633
+148,0,13,Dr.Tyron Braga Guterres,Cirurgia Torácica,655
+149,0,13,Dr.Melody Lobato Natal,Radiologia,1762
+150,0,13,Dr.Mario Beiriz Fitas,Infectologia,830
+151,0,13,Dr.Simon Fazendeiro Mirandela,Medicina de Família e Comunidade,709
+152,0,13,Dr.Léon Farias Fortes,Homeopatia,1357
+153,0,13,Dr.Mariana Beltrão Vilariça,Neurologia,843
+154,0,13,Dr.Camilo Noleto Carmona,Infectologia,737
+155,0,14,Dr.Danilo Cerqueira Hipólito,Radioterapia,1381
+156,0,14,Dr.Luan Cedraz Branco,Cirurgia Plástica,647
+157,0,14,Dr.Ágata Faustino Melancia,Cirurgia Geral,1413
+158,0,14,Dr.Virgílio Charneca Grande,Medicina de Família e Comunidade,801
+159,0,14,Dr.Flávio Torquato Lameiras,Cirurgia Vascular,1149
+160,0,14,Dr.Maitê Feira Félix,Cirurgia de Cabeça e Pescoço,1062
+161,0,15,Dr.Noa Caneira Talhão,Neurologia,1134
+162,0,15,Dr.Sara Horta Carvalhais,Cardiologia,901
+163,0,15,Dr.Oscar Telinhos Silva,Oncologia Clínica,1327
+164,0,15,Dr.Elijah Leme Brás,Medicina Esportiva,1265
+165,0,15,Dr.Cíntia Azevedo Camargo,Cirurgia Cardiovascular,1597
+166,0,15,Dr.Theo Valgueiro Cirne,Cirurgia Plástica,1392
+167,0,15,Dr.Nádia Castro Valadares,Medicina Esportiva,770
+168,0,15,Dr.Joyce Valverde Marmou,Clínica Médica,1798
+169,0,16,Dr.Patrick Azevedo Sardinha,Urologia,810
+170,0,16,Dr.Nilton Curado Sabala,Medicina de Família e Comunidade,955
+171,0,16,Dr.Karolina Cavaco Ferro,Mastologia,846
+172,0,16,Dr.Nélio Inácio Tabanez,Cirurgia Geral,602
+173,0,16,Dr.Hawa Mortágua Águeda,Gastroenterologia,928
+174,0,16,Dr.Matilde Xisto Oliveira,Medicina do Trabalho,735
+175,0,16,Dr.Filipa Boto Aires,Patologia,1636
+176,0,16,Dr.Lyara Varela Barroqueiro,Urologia,927
+177,0,17,Dr.Adriele Delgado Souto,Nefrologia,711
+178,0,17,Dr.Luke Ferraz Prada,Infectologia,1647
+179,0,17,Dr.Ellen Terra Carqueijeiro,Infectologia,623
+180,0,17,Dr.Emilly Ribas Maranhão,Pneumologia,1003
+181,0,17,Dr.Amanda Mexia Torrado,Medicina Preventiva e Social,1483
+182,0,17,Dr.Élton Valadim Banha,Cirurgia Torácica,1720
+183,0,17,Dr.Éric Salomão Taborda,Nefrologia,1031
+184,0,17,Dr.Aicha Sardinha Carvalhais,Infectologia,1589
+185,0,17,Dr.Tiara Ferreira Olaio,Genética Médica,1770
+186,0,17,Dr.Liany Pinhal Maranhão,Dermatologia,1273
+187,0,18,Dr.Edir Rodrigues Maranhão,Cirurgia Plástica,1460
+188,0,18,Dr.Assunção Gois Cartaxo,Cirurgia Torácica,1764
+189,0,18,Dr.Kristian Marcondes Ulhoa,Medicina Nuclear,1075
+190,0,18,Dr.Erika Camacho Rodovalho,Medicina de Emergência,1769
+191,0,18,Dr.Jacyara Mansilha Castilho,Endocrinologia e Metabologia,857
+192,0,18,Dr.Mafalda Quaresma Fagundes,Gastroenterologia,1387
+193,0,18,Dr.Emma Graça Torquato,Coloproctologia,868
+194,0,18,Dr.Rahyssa Dinis Rosa,Cirurgia Torácica,1576
+195,0,18,Dr.Fred Cavalheiro Soverosa,Cirurgia Oncológica,1626
+196,0,18,Dr.Sujana Mesquita Passarinho,Urologia,1721
+197,0,18,Dr.Rafaela Curado Lacerda,Nutrologia,955
+198,0,18,Dr.Kael Varela Fartaria,Angiologia,1270
+199,0,19,Dr.Aida Cisneiros Goulão,Medicina de Tráfego,1597
+200,0,19,Dr.Jimmy Zambujal Penha,Radioterapia,662
+201,0,19,Dr.Aysha Júdice Tristão,Urologia,1152
+202,0,19,Dr.Madalena Hernandes Valentim,Oftalmologia,1376
+203,0,19,Dr.Nicolae Areosa Fitas,Radiologia,1571
+204,0,19,Dr.Benjamin Pimentel Marçal,Cirurgia Pediátrica,1688
+205,0,20,Dr.Luena Sabrosa Castelo Branco,Ortopedia e Traumatologia,691
+206,0,20,Dr.Miguela Azambuja Fortes,Reumatologia,1773
+207,0,20,Dr.Gianluca Barateiro Curvelo,Cirurgia de Cabeça e Pescoço,1592
+208,0,20,Dr.Mathias Miguel Resende,Cirurgia Geral,1115
+209,0,20,Dr.Marlene Mexia Alvarenga,Alergia e Imunologia,1706
+210,0,20,Dr.Teófilo Dourado Júdice,Reumatologia,611
+211,0,20,Dr.Nayla Vigário Mateus,Pediatria,1090
+212,0,20,Dr.Estefany Estrada Veleda,Clínica Médica,1676
+213,0,21,Dr.Stefan Lancastre Couto,Radioterapia,1625
+214,0,21,Dr.Hazael Quintana Figueiroa,Cirurgia de Cabeça e Pescoço,1709
+215,0,21,Dr.Nathaniel Baía Severo,Medicina Nuclear,1414
+216,0,21,Dr.Larissa Palma Carlos,Alergia e Imunologia,1740
+217,0,21,Dr.Delia Saraiva Vilhena,Oftalmologia,1272
+218,0,21,Dr.Enzo Vaz Ataíde,Medicina do Trabalho,1143
+219,0,21,Dr.Raíssa Mantas Anes,Otorrinolaringologia,1250
+220,0,21,Dr.Nicolly Brandão Viveiros,Medicina Legal e Perícia Médica,891
+221,0,21,Dr.Gilberto Rosmaninho Carvalheiro,Patologia,955
+222,0,21,Dr.Ismael Mainha Mortágua,Homeopatia,1413
+223,0,22,Dr.Manha Coimbra Lameira,Cirurgia da Mão,1770
+224,0,22,Dr.Stephanie Morão Castilho,Medicina Esportiva,1691
+225,0,22,Dr.Maximus Malafaia Henriques,Urologia,1669
+226,0,22,Dr.Nikolai Franco Lucena,Radiologia,1332
+227,0,22,Dr.Michele Jorge Barcelos,Cirurgia Plástica,1063
+228,0,22,Dr.Oséias Carregueiro Mexia,Angiologia,1630
+229,0,23,Dr.Giani Passos Azevedo,Otorrinolaringologia,1171
+230,0,23,Dr.Lurdes Caldas Freiria,Neurocirurgia,1240
+231,0,23,Dr.Olinda Rego Grangeia,Oftalmologia,1664
+232,0,23,Dr.Hao Paiva Cidreira,Medicina Física e Reabilitação,729
+233,0,23,Dr.Ranya Sardinha Peseiro,Oftalmologia,1040
+234,0,23,Dr.Atílio Vila-Chã Franca,Cirurgia Geral,772
+235,0,23,Dr.Anastasia Saltão Moita,Oftalmologia,1281
+236,0,23,Dr.Zihao Bonilha Branco,Genética Médica,940
+237,0,23,Dr.Iúri Salazar Carreiro,Dermatologia,1032
+238,0,23,Dr.Erick Canhão César,Medicina Esportiva,1391
+239,0,24,Dr.Fabrício Hernandes Porciúncula,Medicina de Família e Comunidade,1131
+240,0,24,Dr.Aron Aguiar Sabrosa,Coloproctologia,1433
+241,0,24,Dr.Louisa Anlicoara Conceição,Medicina de Emergência,792
+242,0,24,Dr.Miriam Alvelos Taborda,Cirurgia Oncológica,698
+243,0,24,Dr.Catalin Caminha Leitão,Cirurgia Pediátrica,1502
+244,0,24,Dr.Chelsea Madruga Tabosa,Medicina Física e Reabilitação,1629
+245,0,24,Dr.Séfora Lopes Baldaia,Medicina Intensiva,1581
+246,0,25,Dr.Agostinho Cavaco Brás,Cardiologia,1410
+247,0,25,Dr.Jayson Viegas Liberato,Nefrologia,1456
+248,0,25,Dr.Telma Garcia Cascais,Mastologia,1592
+249,0,25,Dr.Geovana Moutinho Barroqueiro,Angiologia,1093
+250,0,25,Dr.Joana Salgado Castro,Ginecologia e Obstetrícia,958
+251,0,25,Dr.Mohammed Ximenes Gois,Otorrinolaringologia,1352
+252,0,25,Dr.Yanni Taveiros Prado,Ginecologia e Obstetrícia,1365
+253,0,25,Dr.Yannis Lamego Rufino,Cirurgia Plástica,909
+254,0,25,Dr.Lian Melancia Holanda,Cirurgia de Cabeça e Pescoço,737
+255,0,26,Dr.Constança Milheiriço Carvalhosa,Oncologia Clínica,1420
+256,0,26,Dr.Mellyssa Goulart Padilha,Coloproctologia,1526
+257,0,26,Dr.Isabelly Rijo Queirós,Otorrinolaringologia,1335
+258,0,26,Dr.Melissa Quinterno Malta,Cirurgia de Cabeça e Pescoço,1641
+259,0,26,Dr.Dario Amado Mourão,Cirurgia Geral,1638
+260,0,26,Dr.Esmeralda Uchoa Pinto,Medicina do Trabalho,1028
+261,0,26,Dr.Ária Parafita Madruga,Cirurgia Vascular,1303
+262,0,27,Dr.Abílio Peralta Monte,Endoscopia,1040
+263,0,27,Dr.Alana Cirne Ferraço,Medicina de Tráfego,1070
+264,0,27,Dr.Rute Carregueiro Figueiredo,Cirurgia da Mão,636
+265,0,27,Dr.Pablo Temes Lamenha,Endocrinologia e Metabologia,955
+266,0,27,Dr.Anaís Trigueiro Ribeiro,Cirurgia Pediátrica,1603
+267,0,27,Dr.Maya Lemos Aires,Cirurgia Torácica,1215
+268,0,27,Dr.Iara Carmona Ferrão,Gastroenterologia,1622
+269,0,27,Dr.Kieza Abasto Ornelas,Cirurgia de Cabeça e Pescoço,891
+270,0,27,Dr.Cassandra Avelar Damásio,Neurocirurgia,1780
+271,0,28,Dr.Érica Mansilha Camargo,Cirurgia Pediátrica,988
+272,0,28,Dr.Telma Teles Mortágua,Medicina Física e Reabilitação,1109
+273,0,28,Dr.Noah Urias Vilanova,Reumatologia,1099
+274,0,28,Dr.Dilnura Caniça Neiva,Medicina Intensiva,1109
+275,0,28,Dr.Álvaro Faia Lousado,Medicina do Trabalho,1734
+276,0,28,Dr.Joel Faustino Castilho,Hematologia e Hemoterapia,873
+277,0,28,Dr.Henrique Bingre Cardim,Medicina Legal e Perícia Médica,1654
+278,0,29,Dr.Janilson Sítima Lourenço,Cirurgia Vascular,666
+279,0,29,Dr.Lucca Charneca Barcelos,Alergia e Imunologia,1521
+280,0,29,Dr.Graça Aires Brandão,Cirurgia Vascular,1288
+281,0,29,Dr.Stefania Aguiar Pureza,Medicina Preventiva e Social,953
+282,0,29,Dr.Adriele Aguiar Bencatel,Ortopedia e Traumatologia,912
+283,0,29,Dr.Leonor Cadavez Alvim,Urologia,1353
+284,0,30,Dr.India Marçal Espírito Santo,Oftalmologia,1397
+285,0,30,Dr.Eddy Sequeira Carvalhal,Neurologia,1295
+286,0,30,Dr.Leticia Keil Tigre,Medicina Legal e Perícia Médica,1616
+287,0,30,Dr.Jia Ilha Abrantes,Ortopedia e Traumatologia,1093
+288,0,30,Dr.Eric Basílio Brasil,Reumatologia,1116
+289,0,30,Dr.Sérgio Milhães Gabeira,Radioterapia,1310
+290,0,30,Dr.Gabriella Rebotim Machado,Cardiologia,938
+291,0,30,Dr.Lyana Arruda Boga,Medicina de Tráfego,1431
+292,0,30,Dr.Nina Vargas Paiva,Nutrologia,1234
+293,0,31,Dr.Carminho Cavadas Dutra,Medicina Intensiva,1346
+294,0,31,Dr.Cristina Fiúza Marreiro,Angiologia,1575
+295,0,31,Dr.Giovanni Gonçalves Afonso,Cirurgia da Mão,661
+296,0,31,Dr.Shayan Argolo Lima,Radiologia,1566
+297,0,31,Dr.Nalini Botica Peçanha,Radioterapia,1365
+298,0,31,Dr.Jaime Valadares Castilhos,Ortopedia e Traumatologia,1211
+299,0,31,Dr.Angela Pederneiras Carvalhal,Cirurgia Oncológica,1785
+300,0,31,Dr.Leandro Borges Novais,Gastroenterologia,801
+301,0,31,Dr.Isabela Mariz Leão,Otorrinolaringologia,888
+302,0,31,Dr.Enoque Câmara Canhão,Urologia,902
+303,0,31,Dr.Florbela Caçoilo Bandeira,Angiologia,739
+304,0,31,Dr.Taís Canto Bingre,Patologia Clínica,1588
+305,0,31,Dr.Valentino Jamandas Caldeira,Medicina de Família e Comunidade,712
+306,0,32,Dr.Lucía Salomão Brião,Endoscopia,1379
+307,0,32,Dr.Mila Travassos Barreto,Coloproctologia,1543
+308,0,32,Dr.Stacy Alvelos Feira,Urologia,777
+309,0,32,Dr.Giulia Dourado Catela,Dermatologia,1311
+310,0,32,Dr.Janilson Palha Almada,Dermatologia,832
+311,0,32,Dr.Alba Carvalhosa Prestes,Alergia e Imunologia,1115
+312,0,33,Dr.Florbela Toste Vilela,Psiquiatria,750
+313,0,33,Dr.Micael Proença Abelho,Medicina de Tráfego,898
+314,0,33,Dr.Luís Quinta Reis,Geriatria,760
+315,0,33,Dr.Frederico Cambezes Viana,Cirurgia Pediátrica,873
+316,0,33,Dr.Katerina Bugalho Santana,Cirurgia Vascular,822
+317,0,33,Dr.Naomi Rico Cedraz,Oncologia Clínica,1492
+318,0,33,Dr.Emilia Bragança Breia,Cirurgia Plástica,1777
+319,0,33,Dr.Romão Laureano Anes,Cirurgia de Cabeça e Pescoço,1397
+320,0,33,Dr.Orlando Tomé Meireles,Cirurgia do Aparelho Digestivo,960
+321,0,34,Dr.Armaan Sarmento Estrada,Medicina Esportiva,1049
+322,0,34,Dr.Jacira Baía Fiães,Hematologia e Hemoterapia,774
+323,0,34,Dr.Gelson Aveiro Mota,Medicina Esportiva,1007
+324,0,34,Dr.Íris Frois Serralheiro,Ginecologia e Obstetrícia,1547
+325,0,34,Dr.Eleonor Murteira Álvaro,Cirurgia Vascular,1750
+326,0,34,Dr.Matteo Quinaz Aranha,Medicina de Família e Comunidade,1150
+327,0,34,Dr.Heloísa Morais Casqueira,Pediatria,1549
+328,0,34,Dr.Andressa Ferraz Oliveira,Nefrologia,1742
+329,0,34,Dr.Flávio Picanço Cavalheiro,Cirurgia Torácica,925
+330,0,34,Dr.Arina Vasconcelos Malafaia,Endoscopia,1767
+331,0,34,Dr.Glória Lalanda Lemos,Medicina de Emergência,1100
+332,0,34,Dr.Iris Caires Franco,Anestesiologista,732
+333,0,34,Dr.Henzo Portela Redondo,Urologia,917
+334,0,34,Dr.Irene Condorcet Salomão,Medicina do Trabalho,1115
+335,0,34,Dr.Mélanie Valcácer Camelo,Cirurgia Oncológica,1387
+336,0,34,Dr.Hélder Neto Varejão,Otorrinolaringologia,1055
+337,0,34,Dr.Zé Cordeiro Milhães,Geriatria,661
+338,0,34,Dr.Edir Minho Prestes,Ortopedia e Traumatologia,1196
+339,0,35,Dr.Kauã Pereira Prestes,Medicina Física e Reabilitação,652
+340,0,35,Dr.Valéria Valadares Cunha,Urologia,1259
+341,0,35,Dr.Erick Couceiro Nascimento,Pneumologia,1671
+342,0,35,Dr.Valentina Ulhoa Carreira,Geriatria,1061
+343,0,35,Dr.Yara Adão Rico,Medicina Legal e Perícia Médica,1755
+344,0,35,Dr.Kayla Seixas Figueiró,Cirurgia Cardiovascular,1385
+345,0,35,Dr.Brahim Cedraz Porto,Cirurgia Oncológica,1164
+346,0,35,Dr.Céline Lameirinhas Caiado,Urologia,1603
+347,0,35,Dr.Flor Ninharelhos Sacadura,Cirurgia Cardiovascular,1663
+348,0,35,Dr.Ionara Caetano Rebocho,Cirurgia do Aparelho Digestivo,1799
+349,0,35,Dr.Michele Caiado Caldas,Medicina de Família e Comunidade,899
+350,0,35,Dr.Eunice Rosário Mexia,Medicina de Família e Comunidade,1192
+351,0,35,Dr.Edir Camilo Gentil,Gastroenterologia,812
+352,0,35,Dr.Thayra Murteira Dias,Dermatologia,1406
+353,0,35,Dr.Gilberto Liberato Mafra,Alergia e Imunologia,1124
+354,0,36,Dr.Amira Fialho Trindade,Dermatologia,618
+355,0,36,Dr.Belchior Alencar Vilarinho,Cirurgia do Aparelho Digestivo,1428
+356,0,36,Dr.Hermano Infante Cangueiro,Cirurgia da Mão,602
+357,0,36,Dr.Cadija Faro Baptista,Oncologia Clínica,922
+358,0,36,Dr.Bernardo Madureira Rocha,Cirurgia Torácica,693
+359,0,36,Dr.Jeremias Ornelas Rosa,Cirurgia da Mão,1266
+360,0,36,Dr.Neide Lousã Valgueiro,Medicina Nuclear,781
+361,0,36,Dr.Penélope Quintana Muxagata,Neurologia,1598
+362,0,36,Dr.Elizabet Cardim Igrejas,Cirurgia Torácica,743
+363,0,36,Dr.Diana Ferraço Rios,Homeopatia,1652
+364,0,36,Dr.Amora Sampaio Bacelar,Radioterapia,1509
+365,0,36,Dr.Christopher Mainha Fidalgo,Medicina do Trabalho,1221
+366,0,36,Dr.Kristian Bonilha Alcântara,Cirurgia Torácica,1056
+367,0,36,Dr.Joaquim Valgueiro Soveral,Ginecologia e Obstetrícia,1436
+368,0,36,Dr.Erica Moura Vidal,Angiologia,1791
+369,0,36,Dr.Lisandra Guedes Zagalo,Medicina Nuclear,1125
+370,0,36,Dr.Lisandro Vilanova Festas,Endocrinologia e Metabologia,1752
+371,0,36,Dr.Fernanda Miguéis Rodovalho,Patologia,943
+372,0,37,Dr.Telma Fortunato Quintal,Oftalmologia,647
+373,0,37,Dr.Evelyn Osório Salgado,Neurocirurgia,1397
+374,0,37,Dr.Albert Pêcego Cabeça,Ortopedia e Traumatologia,947
+375,0,37,Dr.Gabriella Penteado Girão,Cirurgia Geral,1520
+376,0,37,Dr.Júlio Abranches Duarte,Psiquiatria,1554
+377,0,37,Dr.Djelissa Arouca Sacadura,Infectologia,1281
+378,0,37,Dr.Diamantino Lameirinhas Cabeça de Vaca,Cirurgia Plástica,1412
+379,0,37,Dr.Eliel Fitas Peixoto,Medicina de Emergência,1423
+380,0,37,Dr.Arianna Quaresma Mortágua,Ortopedia e Traumatologia,1187
+381,0,37,Dr.Chelsea Araújo Viana,Dermatologia,1755
+382,0,37,Dr.Kendra Mendonça Foquiço,Medicina do Trabalho,1599
+383,0,38,Dr.Noé Castanho Galindo,Medicina Esportiva,641
+384,0,38,Dr.Elvira Resende Letras,Cirurgia de Cabeça e Pescoço,1650
+385,0,38,Dr.Rafaela Amoedo Aldeia,Reumatologia,1199
+386,0,38,Dr.Aicha Couto Cadavez,Nefrologia,1342
+387,0,38,Dr.Marcelo Girão Fortunato,Neurocirurgia,1532
+388,0,38,Dr.Lola Robalinho Barrico,Endoscopia,1294
+389,0,38,Dr.Ândria Vilas Boas Amado,Medicina Preventiva e Social,1290
+390,0,38,Dr.Yasmina Fazendeiro Severo,Medicina do Trabalho,650
+391,0,38,Dr.Aleksandra Matoso Homem,Cirurgia Cardiovascular,1034
+392,0,38,Dr.Nikita Pedro Frajuca,Medicina do Trabalho,959
+393,0,38,Dr.Djelissa Soares Tabanez,Medicina Intensiva,723
+394,0,38,Dr.Maira Canadas Ninharelhos,Gastroenterologia,878
+395,0,39,Dr.Gina Leiria Curvelo,Neurocirurgia,941
+396,0,39,Dr.Ariela Galante Valente,Psiquiatria,740
+397,0,39,Dr.Márcia Sardo Lourenço,Alergia e Imunologia,855
+398,0,39,Dr.Aliana Vides Lustosa,Hematologia e Hemoterapia,1655
+399,0,39,Dr.Nilson Guimarães Frade,Ginecologia e Obstetrícia,1202
+400,0,39,Dr.Isaura Marçal Melo,Cirurgia da Mão,1321
+401,0,39,Dr.Zé Gabeira Fartaria,Reumatologia,1495
+402,0,39,Dr.Dominika Quesado Santarém,Patologia,603
+403,0,40,Dr.Inaaya Parreir Regalado,Cirurgia Oncológica,1685
+404,0,40,Dr.Jessé Valcácer Gameiro,Genética Médica,1122
+405,0,40,Dr.Eliel Rebimbas Silveira,Radioterapia,1182
+406,0,40,Dr.Mercês Temes Furquim,Patologia Clínica,1522
+407,0,40,Dr.Mariano França Nogueira,Cirurgia do Aparelho Digestivo,1210
+408,0,40,Dr.Fatumata Alcoforado Barbalho,Otorrinolaringologia,1360
+409,0,40,Dr.Luzia Cavalheiro Novais,Cirurgia Vascular,1009
+410,0,40,Dr.Cármen Ponte Granja,Medicina de Emergência,1359
+411,0,40,Dr.Dádiva Talhão Borges,Medicina de Emergência,845
+412,0,41,Dr.Aminata Holanda Torres,Nefrologia,1706
+413,0,41,Dr.Reinaldo Lagoa Assunção,Cirurgia Cardiovascular,652
+414,0,41,Dr.Alexandre Teodoro Onofre,Ortopedia e Traumatologia,839
+415,0,41,Dr.Céline Chousa Feira,Oftalmologia,962
+416,0,41,Dr.Manel Colares Conde,Ortopedia e Traumatologia,1446
+417,0,41,Dr.Karolina Galante Farias,Medicina do Trabalho,876
+418,0,41,Dr.Ruben Hernandes Nolasco,Medicina Nuclear,1382
+419,0,41,Dr.Lunna Valcanaia Abranches,Coloproctologia,1585
+420,0,41,Dr.Adrián Sesimbra Gameiro,Endocrinologia e Metabologia,1068
+421,0,41,Dr.Kirill Atilano Rebotim,Endoscopia,1486
+422,0,41,Dr.Stéphanie Curvelo Damásio,Medicina de Tráfego,864
+423,0,41,Dr.Jessie Feitosa Covinha,Urologia,1080
+424,0,41,Dr.Yuri Frajuca Lucas,Cirurgia da Mão,1457
+425,0,41,Dr.Martim Lara Franqueira,Pneumologia,1678
+426,0,41,Dr.Rayane Faro Valente,Radioterapia,1445
+427,0,27,Dr.Luena Macena Bessa,Radioterapia,633
+428,0,28,Dr.Iulian Marinho Delgado,Patologia Clínica,1078
+429,0,29,Dr.Aleksandr Cotrim Eiró,Cirurgia Geral,1614
+430,0,30,Dr.Uriel Bouça Rodovalho,Medicina de Emergência,1257
+431,0,25,Dr.Stephen Delgado Espinosa,Medicina de Tráfego,663
+432,0,26,Dr.Linda Penha Cabral,Cirurgia Oncológica,1321
+433,0,23,Dr.Guilherme Caiado Pimenta,Medicina de Emergência,1361
+434,0,22,Dr.André Mourinho Guedes,Ortopedia e Traumatologia,1004
+435,0,22,Dr.Vasco Marins Capucho,Cirurgia Torácica,1481
+436,0,22,Dr.Gusttavo Matias Sobreira,Cirurgia Torácica,1587
+437,0,22,Dr.Ryan Mieiro Angelim,Medicina Nuclear,1043
+438,0,23,Dr.Diva Franca Assunção,Endoscopia,1132
+439,0,23,Dr.Emília Tabosa Monteiro,Geriatria,643
+440,0,23,Dr.Ravidson Camacho Gomes,Genética Médica,1483
+441,0,24,Dr.Kendrick Quintanilha Lisboa,Medicina de Emergência,673
+442,0,24,Dr.Maurício Fialho Gentil,Cirurgia do Aparelho Digestivo,1646
+443,0,24,Dr.Paloma Ruas Vides,Neurologia,759
+444,0,25,Dr.Ranya Perdigão Lameirinhas,Oftalmologia,1727
+445,0,25,Dr.Nikita Azeredo Alvelos,Ginecologia e Obstetrícia,639
+446,0,25,Dr.Eder Viana Sales,Dermatologia,1053
+447,0,27,Dr.Anaisa Lamego Veiga,Endoscopia,1478
+448,0,27,Dr.Vilma Vilariça Reino,Medicina Esportiva,1321
+449,0,28,Dr.Laís Pacheco Curado,Cirurgia da Mão,1458
+450,0,28,Dr.Jimmy Porciúncula Moutinho,Pneumologia,624
+451,0,28,Dr.Elsa Varão Maia,Medicina do Trabalho,614
