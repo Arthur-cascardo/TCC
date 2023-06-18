@@ -2,6 +2,7 @@ import mysql.connector
 from mysql.connector import Error
 import pandas as pd
 from unidecode import unidecode
+import time as t
 
 
 def secondsToMins(time):
@@ -23,58 +24,79 @@ def secondsToMins(time):
             seconds = "0" + str(seconds)
         return str(mins) + ":" + str(seconds)
 
-try:
 
-    db = mysql.connector.connect(host='localhost', database='pei2', user='arthur', password='1234')
-    
-    if db.is_connected():
-        db_Info = db.get_server_info()
-        print("Connected to MySQL Server version ", db_Info)
-        cursor = db.cursor()
-        cursor.execute("select database();")
-        record = cursor.fetchone()
-        print("You're connected to database: ", record)
+def run_db():
+    try:
 
-        ##TODO in loop, val as json
-        # sql = "INSERT INTO medico (ID, ID_PACIENTE, ID_HOSPITAL, NOME, ESPECIALIDADE, TEMPO_MED_ESPERA) VALUES (%s, %s, %s, %s, %s, %s)"
-        # val = [
-        #
-        # ]
+        db = mysql.connector.connect(host='localhost', database='pei2', user='arthur', password='1234')
 
-        # cursor.executemany(sql, val)
+        if db.is_connected():
+            db_Info = db.get_server_info()
+            print("Connected to MySQL Server version ", db_Info)
 
-        cursor.execute("SELECT * FROM new_view")
 
-        result = cursor.fetchall()
-        df = pd.DataFrame(result)
-        dfd = df.copy()
+            ##TODO in loop
+            while True:
+                cursor = db.cursor()
+                cursor.execute("select database();")
+                record = cursor.fetchone()
+                print("You're connected to database: ", record)
+                cursor.execute("SELECT * FROM new_view")
 
-        i = 0
-        for time in df[1]:
-            dfd.loc[i, 1] = secondsToMins(time)
-            i = i + 1
-        i = 0
-        for time in df[5]:
-            dfd.loc[i, 5] = secondsToMins(time)
-            i = i + 1
+                result = cursor.fetchall()
+                df = pd.DataFrame(result)
+                dfd = df.copy()
+                temp_1 = []
+                temp_2 = []
 
-        dfd.to_csv("hospitals.csv", index=False, header=False)
-        file = open("hospitals.csv", 'r', encoding='utf-8')
-        content = file.read()
-        content = unidecode(content)
-        file.close()
-        file = open("hospitals.csv", 'w')
-        file.write('Hospital, Tempo Espera, Pacientes Aguardando, Medico, Especialidade, Tempo Espera Medico\n')
-        file.close()
-        file = open("hospitals.csv", 'a')
-        file.write(content)
-        file.close()
-        db.commit()
+                i = 0
+                for time in df[2]:
+                    dfd.loc[i, 2] = dfd.loc[i, 2] - 1
+                    temp_1.append(dfd.loc[i, 2])
+                    dfd.loc[i, 2] = secondsToMins(time)
+                    i = i + 1
+                i = 0
+                for time in df[6]:
+                    dfd.loc[i, 6] = dfd.loc[i, 6] - 1
+                    temp_2.append(dfd.loc[i, 6])
+                    dfd.loc[i, 6] = secondsToMins(time)
+                    i = i + 1
+                val = []
+                i = 0
+                for ids in df[0]:
+                    val.append((int(temp_1[i]), ids))
+                    i = i + 1
 
-except Error as e:
-    print("Error while connecting to MySQL", e)
-finally:
-    if db.is_connected():
-        cursor.close()
-        db.close()
-        print("MySQL db is closed")
+                sql = "UPDATE hospital SET TEMPO_ESPERA = %s where ID = %s"
+                cursor.executemany(sql, val)
+                i = 0
+                val.clear()
+                for ids in df[0]:
+                    val.append((int(temp_2[i]), ids))
+                    i = i + 1
+
+                sql = "UPDATE medico SET TEMPO_MED_ESPERA = %s where ID = %s"
+                cursor.executemany(sql, val)
+
+                dfd.to_csv("hospitals.csv", index=False, header=False)
+                file = open("hospitals.csv", 'r', encoding='utf-8')
+                content = file.read()
+                content = unidecode(content)
+                file.close()
+                file = open("hospitals.csv", 'w')
+                file.write('Hospital, Tempo Espera, Pacientes Aguardando, Medico, Especialidade, Tempo Espera Medico\n')
+                file.close()
+                file = open("hospitals.csv", 'a')
+                file.write(content)
+                file.close()
+                db.commit()
+
+                t.sleep(1)
+
+    except Error as e:
+        print("Error while connecting to MySQL", e)
+    finally:
+        if db.is_connected():
+            cursor.close()
+            db.close()
+            print("MySQL db is closed")
