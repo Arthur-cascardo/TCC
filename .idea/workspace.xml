@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c7cd448-8cac-4c56-be83-847194d51553" name="Changes" comment="Gitignore">
+    <list default="true" id="8c7cd448-8cac-4c56-be83-847194d51553" name="Changes" comment="Time passing, specific query">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/central_local.py" beforeDir="false" afterPath="$PROJECT_DIR$/central_local.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/central_servidor.py" beforeDir="false" afterPath="$PROJECT_DIR$/central_servidor.py" afterDir="false" />
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686859903583</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Time passing, specific query">
+      <created>1687122573365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687122573365</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -94,7 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gitignore" />
+    <MESSAGE value="Time passing, specific query" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time passing, specific query" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

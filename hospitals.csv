@@ -1,452 +1,452 @@
 Hospital, Tempo Espera, Pacientes Aguardando, Medico, Especialidade, Tempo Espera Medico
-1,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Alcino Clementino Lameiras,Medicina Esportiva,07:55
-2,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Marcus Boto Carvalheiro,Medicina de Trafego,19:04
-3,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Melissa Penteado Lago,Alergia e Imunologia,17:31
-4,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Stefan Castilhos Colares,Psiquiatria,22:24
-5,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Pandora Pederneiras Espirito Santo,Cirurgia do Aparelho Digestivo,25:45
-6,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Diego Aleixo Bulhosa,Cirurgia Plastica,23:01
-7,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Ari Cacoilo Veleda,Endocrinologia e Metabologia,18:59
-8,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Neymar Paula Sarmento,Cirurgia da Mao,19:35
-9,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Cecilia Lira Silvestre,Cirurgia Pediatrica,20:21
-10,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Lola Belchior Parente,Cirurgia Pediatrica,24:49
-11,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Destiny Bacelar Vale,Dermatologia,15:17
-12,Hospital Israelita Albert Einstein,1:47:54,22,Dr.Luena Palmeira Resende,Medicina de Trafego,21:05
-13,Hospital Sirio Libanes,1:47:54,43,Dr.Poliana Peralta Matos,Geriatria,08:18
-14,Hospital Sirio Libanes,1:47:54,43,Dr.Mohammad Frade Cedro,Geriatria,26:03
-15,Hospital Sirio Libanes,1:47:54,43,Dr.Catalina Madeira Cabral,Coloproctologia,08:23
-16,Hospital Sirio Libanes,1:47:54,43,Dr.Carmo Taveiros Franqueira,Geriatria,22:48
-17,Hospital Sirio Libanes,1:47:54,43,Dr.Arina Ines Resende,Cirurgia Cardiovascular,16:13
-18,Hospital Sirio Libanes,1:47:54,43,Dr.Giovanni Vilas Boas Cirne,Medicina de Familia e Comunidade,16:12
-19,Hospital Sirio Libanes,1:47:54,43,Dr.Aurora Malta Garcez,Medicina de Trafego,27:00
-20,Hospital Sirio Libanes,1:47:54,43,Dr.Silvia Carrilho Pestana,Patologia,19:26
-21,Hospital Sirio Libanes,1:47:54,43,Dr.Rubim Monteiro Cantanhede,Reumatologia,20:50
-22,Hospital Sirio Libanes,1:47:54,43,Dr.Kelvin Saldanha Queiros,Nefrologia,26:49
-23,Hospital Sirio Libanes,1:47:54,43,Dr.Carminho Orrica Padua,Anestesiologista,09:47
-24,Hospital Sirio Libanes,1:47:54,43,Dr.Adonai Leao Peseiro,Genetica Medica,12:26
-25,Hospital Oswaldo Cruz,1:47:54,22,Dr.Lua Santos Salgueiro,Medicina Fisica e Reabilitacao,15:32
-26,Hospital Oswaldo Cruz,1:47:54,22,Dr.Maximo Conde Cidreira,Medicina Esportiva,25:37
-27,Hospital Oswaldo Cruz,1:47:54,22,Dr.Maxim Regueira Cedraz,Oncologia Clinica,18:04
-28,Hospital Oswaldo Cruz,1:47:54,22,Dr.Samira Eanes Malta,Cirurgia Pediatrica,21:57
-29,Hospital Oswaldo Cruz,1:47:54,22,Dr.Paulo Letras Vilar,Neurologia,16:20
-30,Hospital Oswaldo Cruz,1:47:54,22,Dr.Leticia Mota Quadros,Cirurgia Cardiovascular,27:26
-31,Hospital Oswaldo Cruz,1:47:54,22,Dr.Zoe Flores Almada,Infectologia,20:56
-32,Hospital Oswaldo Cruz,1:47:54,22,Dr.Ezequiel Teixeira Araujo,Radiologia,18:07
-33,Hospital Oswaldo Cruz,1:47:54,22,Dr.Renato Estrela Cerveira,Cirurgia de Cabeca e Pescoco,13:36
-34,Hospital Oswaldo Cruz,1:47:54,22,Dr.Hao Melo Mourinho,Reumatologia,14:56
-35,Hospital Oswaldo Cruz,1:47:54,22,Dr.Tyron Pimentel Zarco,Otorrinolaringologia,20:42
-36,Hospital Oswaldo Cruz,1:47:54,22,Dr.Eusebio Bairros Sacadura,Medicina Preventiva e Social,22:30
-37,Hospital Oswaldo Cruz,1:47:54,22,Dr.Leo Tavares Temes,Cirurgia Oncologica,08:53
-38,Hospital Oswaldo Cruz,1:47:54,22,Dr.Carol Quintal Ninharelhos,Hematologia e Hemoterapia,13:34
-39,Hospital Oswaldo Cruz,1:47:54,22,Dr.Janice Moutinho Noite,Ginecologia e Obstetricia,22:06
-40,Hospital Oswaldo Cruz,1:47:54,22,Dr.Jia Melo Matoso,Angiologia,08:42
-41,Hospital Oswaldo Cruz,1:47:54,22,Dr.Vladimir Cavadas Carromeu,Nefrologia,22:31
-42,Hospital Oswaldo Cruz,1:47:54,22,Dr.Aryan Santana Coelho,Genetica Medica,26:57
-43,Hospital Oswaldo Cruz,1:47:54,22,Dr.Radija Cadavez Cotrim,Patologia Clinica,18:20
-44,Hospital Oswaldo Cruz,1:47:54,22,Dr.Kimberly Meira Sobral,Genetica Medica,13:02
-45,Hospital Oswaldo Cruz,1:47:54,22,Dr.Samuel Jesus Bettencourt,Medicina de Trafego,16:22
-46,Hospital Oswaldo Cruz,1:47:54,22,Dr.Prapti Vilela Coimbra,Nefrologia,19:20
-47,Hospital Oswaldo Cruz,1:47:54,22,Dr.Amelia Cirne Quinta,Mastologia,21:25
-48,Hospital Oswaldo Cruz,1:47:54,22,Dr.Tierri Varao Sandinha,Infectologia,14:19
-49,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Evandro Chamusca Raposo,Angiologia,08:43
-50,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Sergio Osorio Bras,Homeopatia,16:19
-51,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Yaqi Caiado Passarinho,Medicina Legal e Pericia Medica,26:28
-52,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Soraia Keil Faia,Oftalmologia,18:21
-53,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Hermano Naves Rico,Oncologia Clinica,18:45
-54,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Maisa Teves Anlicoara,Pneumologia,23:13
-55,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Maximo Cangueiro Vilas Boas,Nefrologia,17:19
-56,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Zelia Graca Canhao,Cirurgia do Aparelho Digestivo,16:35
-57,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Sol Simao Franca,Patologia,16:27
-58,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Omar Caeira Lucena,Psiquiatria,10:49
-59,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Matheus Piteira Quental,Dermatologia,25:39
-60,Hospital da Universidade de Sao Paulo,1:47:54,23,Dr.Eliana Muniz Salazar,Cirurgia Oncologica,26:33
-61,Hospital Moinhos de Vento,1:47:54,6,Dr.Ellie Valim Judice,Neurologia,09:42
-62,Hospital Moinhos de Vento,1:47:54,6,Dr.Taynara Baia Bentes,Medicina de Emergencia,15:27
-63,Hospital Moinhos de Vento,1:47:54,6,Dr.Briana Rios Cangueiro,Endocrinologia e Metabologia,09:35
-64,Hospital Moinhos de Vento,1:47:54,6,Dr.Vitor Pimentel Redondo,Medicina de Familia e Comunidade,15:38
-65,Hospital Moinhos de Vento,1:47:54,6,Dr.Zaqueu Prestes Passos,Cirurgia Vascular,14:41
-66,Hospital Moinhos de Vento,1:47:54,6,Dr.Carina Pestana Pais,Patologia Clinica,27:31
-67,Hospital Moinhos de Vento,1:47:54,6,Dr.Frederica Pacheco Osorio,Cardiologia,18:47
-68,Hospital Moinhos de Vento,1:47:54,6,Dr.Mellyssa Soverosa Fitas,Patologia Clinica,09:43
-69,Hospital Moinhos de Vento,1:47:54,6,Dr.Calebe Corte-Real Guilheiro,Cirurgia Cardiovascular,08:16
-70,Hospital Moinhos de Vento,1:47:54,6,Dr.Catalina Junqueira Duraes,Nefrologia,17:18
-71,Hospital Moinhos de Vento,1:47:54,6,Dr.Liam Pais Tristao,Nefrologia,15:45
-72,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Darius Paulos Cabeca de Vaca,Geriatria,11:05
-73,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Damien Ginjeira Noronha,Dermatologia,09:52
-74,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Eva Cirne Rosario,Medicina Preventiva e Social,16:54
-75,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Marlene Pegado Canario,Cirurgia Vascular,15:22
-76,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Zion Moreira Castro,Medicina Preventiva e Social,22:04
-77,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Iris Mata Morgado,Neurocirurgia,19:41
-78,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Jack Parreir Palma,Cirurgia de Cabeca e Pescoco,11:59
-79,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Filomena Maciel Mascarenhas,Anestesiologista,25:43
-80,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Louisa Sardo Ornelas,Medicina Preventiva e Social,14:09
-81,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Lucia Manso Carmona,Medicina Esportiva,26:19
-82,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Maxim Angelim Rico,Cirurgia Toracica,08:43
-83,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Dilan Neres Grangeia,Oncologia Clinica,22:46
-84,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Hawa Pedroso Lustosa,Medicina Intensiva,20:47
-85,Sao Luiz Unidade Morumbi,1:47:54,34,Dr.Janilson Pires Carvalhal,Medicina de Trafego,25:01
-86,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Daniela Viana Picanco,Endoscopia,25:25
-87,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Lorena Ventura Amaral,Psiquiatria,08:01
-88,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Janice Lamenha Graca,Neurocirurgia,23:14
-89,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Anastacia Lousa Antunes,Geriatria,10:21
-90,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Dalila Anlicoara Zambujal,Medicina de Trafego,16:10
-91,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Rute Carvalhosa Chaves,Mastologia,16:31
-92,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Bento Oleiro Frias,Cirurgia Cardiovascular,08:32
-93,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Alice Leiria Eiro,Nefrologia,13:22
-94,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Nour Caiado Rico,Ginecologia e Obstetricia,23:38
-95,Sao Luiz Unidade Analia Franco,1:47:54,16,Dr.Alvin Ferro Furquim,Cirurgia do Aparelho Digestivo,27:26
-96,Hospital Mae de Deus,1:47:54,17,Dr.KellY Seabra Keil,Ginecologia e Obstetricia,26:57
-97,Hospital Mae de Deus,1:47:54,17,Dr.Melania Paredes Resende,Neurologia,16:36
-98,Hospital Mae de Deus,1:47:54,17,Dr.Jacinto Castilhos Delgado,Cirurgia de Cabeca e Pescoco,24:23
-99,Hospital Mae de Deus,1:47:54,17,Dr.Maximo Mieiro Abreu,Neurocirurgia,09:53
-100,Hospital Mae de Deus,1:47:54,17,Dr.Luis Corte-Real Tristao,Hematologia e Hemoterapia,10:54
-101,Hospital Mae de Deus,1:47:54,17,Dr.Zhen Curvelo Guerra,Medicina Esportiva,22:23
-102,Hospital Mae de Deus,1:47:54,17,Dr.Simona Cacoilo Patricio,Oncologia Clinica,14:12
-103,Hospital Mae de Deus,1:47:54,17,Dr.Ana Freitas Franqueira,Otorrinolaringologia,24:24
-104,Hospital Mae de Deus,1:47:54,17,Dr.Mara Maranhao Curado,Cirurgia Plastica,19:59
-105,Hospital Mae de Deus,1:47:54,17,Dr.Martinho Figueiroa Igrejas,Geriatria,13:52
-106,Hospital Mae de Deus,1:47:54,17,Dr.Josefa Lessa Cabeca,Medicina do Trabalho,08:11
-107,Hospital Mae de Deus,1:47:54,17,Dr.Rayanne Antunes Medeiros,Geriatria,24:32
-108,IMIP,1:47:54,37,Dr.Angela Figueiro Fitas,Medicina Legal e Pericia Medica,17:48
-109,IMIP,1:47:54,37,Dr.Hayla Caeiro Cabreira,Nefrologia,10:47
-110,IMIP,1:47:54,37,Dr.Silvia Mansilha Mourao,Radioterapia,10:38
-111,IMIP,1:47:54,37,Dr.Rubia Inacio Caminha,Urologia,10:14
-112,IMIP,1:47:54,37,Dr.Bela Rico Telinhos,Cirurgia Pediatrica,24:01
-113,IMIP,1:47:54,37,Dr.Kayla Neiva Figueira,Neurocirurgia,23:20
-114,IMIP,1:47:54,37,Dr.Nikolai Gois Mourinho,Clinica Medica,09:47
-115,IMIP,1:47:54,37,Dr.Alba Negromonte Pastana,Cirurgia Vascular,23:01
-116,Hospital Santa Paula,1:47:54,33,Dr.Alexandr Pimenta Tinoco,Mastologia,24:32
-117,Hospital Santa Paula,1:47:54,33,Dr.Grace Neres Narvais,Cirurgia de Cabeca e Pescoco,17:00
-118,Hospital Santa Paula,1:47:54,33,Dr.Emilly Alves Peseiro,Psiquiatria,25:19
-119,Hospital Santa Paula,1:47:54,33,Dr.Hayla Farinha Martinho,Nefrologia,13:47
-120,Hospital Santa Paula,1:47:54,33,Dr.Kiamy Franca Castelo,Homeopatia,15:00
-121,Hospital Santa Paula,1:47:54,33,Dr.Josiane Malho Lages,Anestesiologista,15:21
-122,Hospital Santa Paula,1:47:54,33,Dr.Fabia Ventura Reino,Cardiologia,18:19
-123,Hospital Santa Paula,1:47:54,33,Dr.Maya Anlicoara Ruas,Medicina do Trabalho,15:56
-124,Hospital Santa Paula,1:47:54,33,Dr.Sophie Bulhoes Miguel,Angiologia,26:46
-125,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Esther Filipe Homem,Medicina Fisica e Reabilitacao,10:20
-126,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Bilal Quinterno Vilaverde,Urologia,15:49
-127,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Aicha Ulhoa Regueira,Pneumologia,21:10
-128,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Mario Bentes Mainha,Genetica Medica,08:00
-129,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Tito Boeira Barrocas,Medicina Esportiva,23:36
-130,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Khadija Sobral Gaspar,Medicina Fisica e Reabilitacao,16:42
-131,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Luiz Granja Vilanova,Gastroenterologia,12:11
-132,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Tyler Zambujal Curado,Oncologia Clinica,17:51
-133,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Ndeye Falcao Domingues,Patologia Clinica,20:25
-134,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Ezra Lobato Barreno,Cirurgia do Aparelho Digestivo,24:49
-135,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Ruben Aleixo Jesus,Clinica Medica,26:14
-136,Beneficencia Portuguesa de SP,1:47:54,22,Dr.Guilherme Prada Mourao,Ginecologia e Obstetricia,13:36
-137,Santa Casa de Misericordia Passos,1:47:54,33,Dr.Destiny Milheiro Valido,Radioterapia,09:47
-138,Santa Casa de Misericordia Passos,1:47:54,33,Dr.Laurindo Bettencourt Taveira,Pneumologia,19:11
-139,Santa Casa de Misericordia Passos,1:47:54,33,Dr.Kyle Afonso Palos,Cirurgia Vascular,22:27
-140,Santa Casa de Misericordia Passos,1:47:54,33,Dr.Mohammed Gorjao Parafita,Dermatologia,27:37
-141,Santa Casa de Misericordia Passos,1:47:54,33,Dr.Luiz Melgaco Casqueira,Patologia,15:37
-142,Santa Casa de Misericordia Passos,1:47:54,33,Dr.Marilia Mota Aguiar,Medicina Fisica e Reabilitacao,18:55
-143,Santa Casa de Misericordia Passos,1:47:54,33,Dr.Johnny Bernardes Natal,Reumatologia,20:32
-144,Santa Casa de Misericordia Passos,1:47:54,33,Dr.Fernanda Quintana Faro,Cirurgia Cardiovascular,26:42
-145,Hospital Santa Catarina,1:47:54,13,Dr.Letizia Linhares Sardinha,Ginecologia e Obstetricia,19:06
-146,Hospital Santa Catarina,1:47:54,13,Dr.Cristiano Grangeia Baia,Cirurgia Pediatrica,15:36
-147,Hospital Santa Catarina,1:47:54,13,Dr.Luiz Fortes Roriz,Pneumologia,24:56
-148,Hospital Santa Catarina,1:47:54,13,Dr.Tyron Braga Guterres,Cirurgia Toracica,08:38
-149,Hospital Santa Catarina,1:47:54,13,Dr.Melody Lobato Natal,Radiologia,27:05
-150,Hospital Santa Catarina,1:47:54,13,Dr.Mario Beiriz Fitas,Infectologia,11:33
-151,Hospital Santa Catarina,1:47:54,13,Dr.Simon Fazendeiro Mirandela,Medicina de Familia e Comunidade,09:32
-152,Hospital Santa Catarina,1:47:54,13,Dr.Leon Farias Fortes,Homeopatia,20:20
-153,Hospital Santa Catarina,1:47:54,13,Dr.Mariana Beltrao Vilarica,Neurologia,11:46
-154,Hospital Santa Catarina,1:47:54,13,Dr.Camilo Noleto Carmona,Infectologia,10:00
-155,Sao Luiz Unidade Itaim,1:47:54,43,Dr.Danilo Cerqueira Hipolito,Radioterapia,20:44
-156,Sao Luiz Unidade Itaim,1:47:54,43,Dr.Luan Cedraz Branco,Cirurgia Plastica,08:30
-157,Sao Luiz Unidade Itaim,1:47:54,43,Dr.Agata Faustino Melancia,Cirurgia Geral,21:16
-158,Sao Luiz Unidade Itaim,1:47:54,43,Dr.Virgilio Charneca Grande,Medicina de Familia e Comunidade,11:04
-159,Sao Luiz Unidade Itaim,1:47:54,43,Dr.Flavio Torquato Lameiras,Cirurgia Vascular,16:52
-160,Sao Luiz Unidade Itaim,1:47:54,43,Dr.Maite Feira Felix,Cirurgia de Cabeca e Pescoco,15:25
-161,Sao Luiz Unidade Copa Dor ,1:47:54,6,Dr.Noa Caneira Talhao,Neurologia,16:37
-162,Sao Luiz Unidade Copa Dor ,1:47:54,6,Dr.Sara Horta Carvalhais,Cardiologia,12:44
-163,Sao Luiz Unidade Copa Dor ,1:47:54,6,Dr.Oscar Telinhos Silva,Oncologia Clinica,19:50
-164,Sao Luiz Unidade Copa Dor ,1:47:54,6,Dr.Elijah Leme Bras,Medicina Esportiva,18:48
-165,Sao Luiz Unidade Copa Dor ,1:47:54,6,Dr.Cintia Azevedo Camargo,Cirurgia Cardiovascular,24:20
-166,Sao Luiz Unidade Copa Dor ,1:47:54,6,Dr.Theo Valgueiro Cirne,Cirurgia Plastica,20:55
-167,Sao Luiz Unidade Copa Dor ,1:47:54,6,Dr.Nadia Castro Valadares,Medicina Esportiva,10:33
-168,Sao Luiz Unidade Copa Dor ,1:47:54,6,Dr.Joyce Valverde Marmou,Clinica Medica,27:41
-169,Centro Medico de Campinas,1:47:54,46,Dr.Patrick Azevedo Sardinha,Urologia,11:13
-170,Centro Medico de Campinas,1:47:54,46,Dr.Nilton Curado Sabala,Medicina de Familia e Comunidade,13:38
-171,Centro Medico de Campinas,1:47:54,46,Dr.Karolina Cavaco Ferro,Mastologia,11:49
-172,Centro Medico de Campinas,1:47:54,46,Dr.Nelio Inacio Tabanez,Cirurgia Geral,07:45
-173,Centro Medico de Campinas,1:47:54,46,Dr.Hawa Mortagua Agueda,Gastroenterologia,13:11
-174,Centro Medico de Campinas,1:47:54,46,Dr.Matilde Xisto Oliveira,Medicina do Trabalho,09:58
-175,Centro Medico de Campinas,1:47:54,46,Dr.Filipa Boto Aires,Patologia,24:59
-176,Centro Medico de Campinas,1:47:54,46,Dr.Lyara Varela Barroqueiro,Urologia,13:10
-177,Hospital Samaritano,1:47:54,29,Dr.Adriele Delgado Souto,Nefrologia,09:34
-178,Hospital Samaritano,1:47:54,29,Dr.Luke Ferraz Prada,Infectologia,25:10
-179,Hospital Samaritano,1:47:54,29,Dr.Ellen Terra Carqueijeiro,Infectologia,08:06
-180,Hospital Samaritano,1:47:54,29,Dr.Emilly Ribas Maranhao,Pneumologia,14:26
-181,Hospital Samaritano,1:47:54,29,Dr.Amanda Mexia Torrado,Medicina Preventiva e Social,22:26
-182,Hospital Samaritano,1:47:54,29,Dr.Elton Valadim Banha,Cirurgia Toracica,26:23
-183,Hospital Samaritano,1:47:54,29,Dr.Eric Salomao Taborda,Nefrologia,14:54
-184,Hospital Samaritano,1:47:54,29,Dr.Aicha Sardinha Carvalhais,Infectologia,24:12
-185,Hospital Samaritano,1:47:54,29,Dr.Tiara Ferreira Olaio,Genetica Medica,27:13
-186,Hospital Samaritano,1:47:54,29,Dr.Liany Pinhal Maranhao,Dermatologia,18:56
-187,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Edir Rodrigues Maranhao,Cirurgia Plastica,22:03
-188,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Assuncao Gois Cartaxo,Cirurgia Toracica,27:07
-189,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Kristian Marcondes Ulhoa,Medicina Nuclear,15:38
-190,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Erika Camacho Rodovalho,Medicina de Emergencia,27:12
-191,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Jacyara Mansilha Castilho,Endocrinologia e Metabologia,12:00
-192,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Mafalda Quaresma Fagundes,Gastroenterologia,20:50
-193,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Emma Graca Torquato,Coloproctologia,12:11
-194,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Rahyssa Dinis Rosa,Cirurgia Toracica,23:59
-195,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Fred Cavalheiro Soverosa,Cirurgia Oncologica,24:49
-196,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Sujana Mesquita Passarinho,Urologia,26:24
-197,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Rafaela Curado Lacerda,Nutrologia,13:38
-198,Hospital Ministro Costa Cavalcanti,1:47:54,34,Dr.Kael Varela Fartaria,Angiologia,18:53
-199,Santa Casa de Misericordia Maceio,1:47:54,11,Dr.Aida Cisneiros Goulao,Medicina de Trafego,24:20
-200,Santa Casa de Misericordia Maceio,1:47:54,11,Dr.Jimmy Zambujal Penha,Radioterapia,08:45
-201,Santa Casa de Misericordia Maceio,1:47:54,11,Dr.Aysha Judice Tristao,Urologia,16:55
-202,Santa Casa de Misericordia Maceio,1:47:54,11,Dr.Madalena Hernandes Valentim,Oftalmologia,20:39
-203,Santa Casa de Misericordia Maceio,1:47:54,11,Dr.Nicolae Areosa Fitas,Radiologia,23:54
-204,Santa Casa de Misericordia Maceio,1:47:54,11,Dr.Benjamin Pimentel Marcal,Cirurgia Pediatrica,25:51
-205,Hospital do Coracao,1:47:54,19,Dr.Luena Sabrosa Castelo Branco,Ortopedia e Traumatologia,09:14
-206,Hospital do Coracao,1:47:54,19,Dr.Miguela Azambuja Fortes,Reumatologia,27:16
-207,Hospital do Coracao,1:47:54,19,Dr.Gianluca Barateiro Curvelo,Cirurgia de Cabeca e Pescoco,24:15
-208,Hospital do Coracao,1:47:54,19,Dr.Mathias Miguel Resende,Cirurgia Geral,16:18
-209,Hospital do Coracao,1:47:54,19,Dr.Marlene Mexia Alvarenga,Alergia e Imunologia,26:09
-210,Hospital do Coracao,1:47:54,19,Dr.Teofilo Dourado Judice,Reumatologia,07:54
-211,Hospital do Coracao,1:47:54,19,Dr.Nayla Vigario Mateus,Pediatria,15:53
-212,Hospital do Coracao,1:47:54,19,Dr.Estefany Estrada Veleda,Clinica Medica,25:39
-213,Hospital 9 de Julho,1:47:54,42,Dr.Stefan Lancastre Couto,Radioterapia,24:48
-214,Hospital 9 de Julho,1:47:54,42,Dr.Hazael Quintana Figueiroa,Cirurgia de Cabeca e Pescoco,26:12
-215,Hospital 9 de Julho,1:47:54,42,Dr.Nathaniel Baia Severo,Medicina Nuclear,21:17
-216,Hospital 9 de Julho,1:47:54,42,Dr.Larissa Palma Carlos,Alergia e Imunologia,26:43
-217,Hospital 9 de Julho,1:47:54,42,Dr.Delia Saraiva Vilhena,Oftalmologia,18:55
-218,Hospital 9 de Julho,1:47:54,42,Dr.Enzo Vaz Ataide,Medicina do Trabalho,16:46
-219,Hospital 9 de Julho,1:47:54,42,Dr.Raissa Mantas Anes,Otorrinolaringologia,18:33
-220,Hospital 9 de Julho,1:47:54,42,Dr.Nicolly Brandao Viveiros,Medicina Legal e Pericia Medica,12:34
-221,Hospital 9 de Julho,1:47:54,42,Dr.Gilberto Rosmaninho Carvalheiro,Patologia,13:38
-222,Hospital 9 de Julho,1:47:54,42,Dr.Ismael Mainha Mortagua,Homeopatia,21:16
-223,Hospital Marcio Cunha,1:47:54,8,Dr.Manha Coimbra Lameira,Cirurgia da Mao,27:13
-224,Hospital Marcio Cunha,1:47:54,8,Dr.Stephanie Morao Castilho,Medicina Esportiva,25:54
-225,Hospital Marcio Cunha,1:47:54,8,Dr.Maximus Malafaia Henriques,Urologia,25:32
-226,Hospital Marcio Cunha,1:47:54,8,Dr.Nikolai Franco Lucena,Radiologia,19:55
-227,Hospital Marcio Cunha,1:47:54,8,Dr.Michele Jorge Barcelos,Cirurgia Plastica,15:26
-228,Hospital Marcio Cunha,1:47:54,8,Dr.Oseias Carregueiro Mexia,Angiologia,24:53
-434,Hospital Marcio Cunha,1:47:54,8,Dr.Andre Mourinho Guedes,Ortopedia e Traumatologia,14:27
-435,Hospital Marcio Cunha,1:47:54,8,Dr.Vasco Marins Capucho,Cirurgia Toracica,22:24
-436,Hospital Marcio Cunha,1:47:54,8,Dr.Gusttavo Matias Sobreira,Cirurgia Toracica,24:10
-437,Hospital Marcio Cunha,1:47:54,8,Dr.Ryan Mieiro Angelim,Medicina Nuclear,15:06
-229,Vitoria Apart Hospital,1:47:54,9,Dr.Giani Passos Azevedo,Otorrinolaringologia,17:14
-230,Vitoria Apart Hospital,1:47:54,9,Dr.Lurdes Caldas Freiria,Neurocirurgia,18:23
-231,Vitoria Apart Hospital,1:47:54,9,Dr.Olinda Rego Grangeia,Oftalmologia,25:27
-232,Vitoria Apart Hospital,1:47:54,9,Dr.Hao Paiva Cidreira,Medicina Fisica e Reabilitacao,09:52
-233,Vitoria Apart Hospital,1:47:54,9,Dr.Ranya Sardinha Peseiro,Oftalmologia,15:03
-234,Vitoria Apart Hospital,1:47:54,9,Dr.Atilio Vila-Cha Franca,Cirurgia Geral,10:35
-235,Vitoria Apart Hospital,1:47:54,9,Dr.Anastasia Saltao Moita,Oftalmologia,19:04
-236,Vitoria Apart Hospital,1:47:54,9,Dr.Zihao Bonilha Branco,Genetica Medica,13:23
-237,Vitoria Apart Hospital,1:47:54,9,Dr.Iuri Salazar Carreiro,Dermatologia,14:55
-238,Vitoria Apart Hospital,1:47:54,9,Dr.Erick Canhao Cesar,Medicina Esportiva,20:54
-433,Vitoria Apart Hospital,1:47:54,9,Dr.Guilherme Caiado Pimenta,Medicina de Emergencia,20:24
-438,Vitoria Apart Hospital,1:47:54,9,Dr.Diva Franca Assuncao,Endoscopia,16:35
-439,Vitoria Apart Hospital,1:47:54,9,Dr.Emilia Tabosa Monteiro,Geriatria,08:26
-440,Vitoria Apart Hospital,1:47:54,9,Dr.Ravidson Camacho Gomes,Genetica Medica,22:26
-239,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Fabricio Hernandes Porciuncula,Medicina de Familia e Comunidade,16:34
-240,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Aron Aguiar Sabrosa,Coloproctologia,21:36
-241,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Louisa Anlicoara Conceicao,Medicina de Emergencia,10:55
-242,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Miriam Alvelos Taborda,Cirurgia Oncologica,09:21
-243,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Catalin Caminha Leitao,Cirurgia Pediatrica,22:45
-244,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Chelsea Madruga Tabosa,Medicina Fisica e Reabilitacao,24:52
-245,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Sefora Lopes Baldaia,Medicina Intensiva,24:04
-441,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Kendrick Quintanilha Lisboa,Medicina de Emergencia,08:56
-442,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Mauricio Fialho Gentil,Cirurgia do Aparelho Digestivo,25:09
-443,Hospital Mater dei Santo Agostinho,1:47:54,11,Dr.Paloma Ruas Vides,Neurologia,10:22
-246,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Agostinho Cavaco Bras,Cardiologia,21:13
-247,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Jayson Viegas Liberato,Nefrologia,21:59
-248,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Telma Garcia Cascais,Mastologia,24:15
-249,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Geovana Moutinho Barroqueiro,Angiologia,15:56
-250,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Joana Salgado Castro,Ginecologia e Obstetricia,13:41
-251,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Mohammed Ximenes Gois,Otorrinolaringologia,20:15
-252,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Yanni Taveiros Prado,Ginecologia e Obstetricia,20:28
-253,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Yannis Lamego Rufino,Cirurgia Plastica,12:52
-254,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Lian Melancia Holanda,Cirurgia de Cabeca e Pescoco,10:00
-431,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Stephen Delgado Espinosa,Medicina de Trafego,08:46
-444,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Ranya Perdigao Lameirinhas,Oftalmologia,26:30
-445,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Nikita Azeredo Alvelos,Ginecologia e Obstetricia,08:22
-446,Santa Casa de Misericordia de Porto Alegre,1:47:54,2,Dr.Eder Viana Sales,Dermatologia,15:16
-255,Hospital Universitario da USP,1:47:54,20,Dr.Constanca Milheirico Carvalhosa,Oncologia Clinica,21:23
-256,Hospital Universitario da USP,1:47:54,20,Dr.Mellyssa Goulart Padilha,Coloproctologia,23:09
-257,Hospital Universitario da USP,1:47:54,20,Dr.Isabelly Rijo Queiros,Otorrinolaringologia,19:58
-258,Hospital Universitario da USP,1:47:54,20,Dr.Melissa Quinterno Malta,Cirurgia de Cabeca e Pescoco,25:04
-259,Hospital Universitario da USP,1:47:54,20,Dr.Dario Amado Mourao,Cirurgia Geral,25:01
-260,Hospital Universitario da USP,1:47:54,20,Dr.Esmeralda Uchoa Pinto,Medicina do Trabalho,14:51
-261,Hospital Universitario da USP,1:47:54,20,Dr.Aria Parafita Madruga,Cirurgia Vascular,19:26
-432,Hospital Universitario da USP,1:47:54,20,Dr.Linda Penha Cabral,Cirurgia Oncologica,19:44
-262,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Abilio Peralta Monte,Endoscopia,15:03
-263,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Alana Cirne Ferraco,Medicina de Trafego,15:33
-264,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Rute Carregueiro Figueiredo,Cirurgia da Mao,08:19
-265,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Pablo Temes Lamenha,Endocrinologia e Metabologia,13:38
-266,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Anais Trigueiro Ribeiro,Cirurgia Pediatrica,24:26
-267,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Maya Lemos Aires,Cirurgia Toracica,17:58
-268,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Iara Carmona Ferrao,Gastroenterologia,24:45
-269,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Kieza Abasto Ornelas,Cirurgia de Cabeca e Pescoco,12:34
-270,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Cassandra Avelar Damasio,Neurocirurgia,27:23
-427,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Luena Macena Bessa,Radioterapia,08:16
-447,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Anaisa Lamego Veiga,Endoscopia,22:21
-448,Hospital Sao Camilo Pompeia,1:47:54,25,Dr.Vilma Vilarica Reino,Medicina Esportiva,19:44
-271,Hospital Quinta Dor ,1:47:54,10,Dr.Erica Mansilha Camargo,Cirurgia Pediatrica,14:11
-272,Hospital Quinta Dor ,1:47:54,10,Dr.Telma Teles Mortagua,Medicina Fisica e Reabilitacao,16:12
-273,Hospital Quinta Dor ,1:47:54,10,Dr.Noah Urias Vilanova,Reumatologia,16:02
-274,Hospital Quinta Dor ,1:47:54,10,Dr.Dilnura Canica Neiva,Medicina Intensiva,16:12
-275,Hospital Quinta Dor ,1:47:54,10,Dr.Alvaro Faia Lousado,Medicina do Trabalho,26:37
-276,Hospital Quinta Dor ,1:47:54,10,Dr.Joel Faustino Castilho,Hematologia e Hemoterapia,12:16
-277,Hospital Quinta Dor ,1:47:54,10,Dr.Henrique Bingre Cardim,Medicina Legal e Pericia Medica,25:17
-428,Hospital Quinta Dor ,1:47:54,10,Dr.Iulian Marinho Delgado,Patologia Clinica,15:41
-449,Hospital Quinta Dor ,1:47:54,10,Dr.Lais Pacheco Curado,Cirurgia da Mao,22:01
-450,Hospital Quinta Dor ,1:47:54,10,Dr.Jimmy Porciuncula Moutinho,Pneumologia,08:07
-451,Hospital Quinta Dor ,1:47:54,10,Dr.Elsa Varao Maia,Medicina do Trabalho,07:57
-278,Centro Hospitalar Unimed,1:47:54,5,Dr.Janilson Sitima Lourenco,Cirurgia Vascular,08:49
-279,Centro Hospitalar Unimed,1:47:54,5,Dr.Lucca Charneca Barcelos,Alergia e Imunologia,23:04
-280,Centro Hospitalar Unimed,1:47:54,5,Dr.Graca Aires Brandao,Cirurgia Vascular,19:11
-281,Centro Hospitalar Unimed,1:47:54,5,Dr.Stefania Aguiar Pureza,Medicina Preventiva e Social,13:36
-282,Centro Hospitalar Unimed,1:47:54,5,Dr.Adriele Aguiar Bencatel,Ortopedia e Traumatologia,12:55
-283,Centro Hospitalar Unimed,1:47:54,5,Dr.Leonor Cadavez Alvim,Urologia,20:16
-429,Centro Hospitalar Unimed,1:47:54,5,Dr.Aleksandr Cotrim Eiro,Cirurgia Geral,24:37
-284,Hospital Monte Sinai,1:47:54,27,Dr.India Marcal Espirito Santo,Oftalmologia,21:00
-285,Hospital Monte Sinai,1:47:54,27,Dr.Eddy Sequeira Carvalhal,Neurologia,19:18
-286,Hospital Monte Sinai,1:47:54,27,Dr.Leticia Keil Tigre,Medicina Legal e Pericia Medica,24:39
-287,Hospital Monte Sinai,1:47:54,27,Dr.Jia Ilha Abrantes,Ortopedia e Traumatologia,15:56
-288,Hospital Monte Sinai,1:47:54,27,Dr.Eric Basilio Brasil,Reumatologia,16:19
-289,Hospital Monte Sinai,1:47:54,27,Dr.Sergio Milhaes Gabeira,Radioterapia,19:33
-290,Hospital Monte Sinai,1:47:54,27,Dr.Gabriella Rebotim Machado,Cardiologia,13:21
-291,Hospital Monte Sinai,1:47:54,27,Dr.Lyana Arruda Boga,Medicina de Trafego,21:34
-292,Hospital Monte Sinai,1:47:54,27,Dr.Nina Vargas Paiva,Nutrologia,18:17
-430,Hospital Monte Sinai,1:47:54,27,Dr.Uriel Bouca Rodovalho,Medicina de Emergencia,18:40
-293,Hospital Alvorada Moema,1:47:54,42,Dr.Carminho Cavadas Dutra,Medicina Intensiva,20:09
-294,Hospital Alvorada Moema,1:47:54,42,Dr.Cristina Fiuza Marreiro,Angiologia,23:58
-295,Hospital Alvorada Moema,1:47:54,42,Dr.Giovanni Goncalves Afonso,Cirurgia da Mao,08:44
-296,Hospital Alvorada Moema,1:47:54,42,Dr.Shayan Argolo Lima,Radiologia,23:49
-297,Hospital Alvorada Moema,1:47:54,42,Dr.Nalini Botica Pecanha,Radioterapia,20:28
-298,Hospital Alvorada Moema,1:47:54,42,Dr.Jaime Valadares Castilhos,Ortopedia e Traumatologia,17:54
-299,Hospital Alvorada Moema,1:47:54,42,Dr.Angela Pederneiras Carvalhal,Cirurgia Oncologica,27:28
-300,Hospital Alvorada Moema,1:47:54,42,Dr.Leandro Borges Novais,Gastroenterologia,11:04
-301,Hospital Alvorada Moema,1:47:54,42,Dr.Isabela Mariz Leao,Otorrinolaringologia,12:31
-302,Hospital Alvorada Moema,1:47:54,42,Dr.Enoque Camara Canhao,Urologia,12:45
-303,Hospital Alvorada Moema,1:47:54,42,Dr.Florbela Cacoilo Bandeira,Angiologia,10:02
-304,Hospital Alvorada Moema,1:47:54,42,Dr.Tais Canto Bingre,Patologia Clinica,24:11
-305,Hospital Alvorada Moema,1:47:54,42,Dr.Valentino Jamandas Caldeira,Medicina de Familia e Comunidade,09:35
-306,Hospital de Clinicas,1:47:54,16,Dr.Lucia Salomao Briao,Endoscopia,20:42
-307,Hospital de Clinicas,1:47:54,16,Dr.Mila Travassos Barreto,Coloproctologia,23:26
-308,Hospital de Clinicas,1:47:54,16,Dr.Stacy Alvelos Feira,Urologia,10:40
-309,Hospital de Clinicas,1:47:54,16,Dr.Giulia Dourado Catela,Dermatologia,19:34
-310,Hospital de Clinicas,1:47:54,16,Dr.Janilson Palha Almada,Dermatologia,11:35
-311,Hospital de Clinicas,1:47:54,16,Dr.Alba Carvalhosa Prestes,Alergia e Imunologia,16:18
-312,Hospital de Ensino da UNIFESP,1:47:54,5,Dr.Florbela Toste Vilela,Psiquiatria,10:13
-313,Hospital de Ensino da UNIFESP,1:47:54,5,Dr.Micael Proenca Abelho,Medicina de Trafego,12:41
-314,Hospital de Ensino da UNIFESP,1:47:54,5,Dr.Luis Quinta Reis,Geriatria,10:23
-315,Hospital de Ensino da UNIFESP,1:47:54,5,Dr.Frederico Cambezes Viana,Cirurgia Pediatrica,12:16
-316,Hospital de Ensino da UNIFESP,1:47:54,5,Dr.Katerina Bugalho Santana,Cirurgia Vascular,11:25
-317,Hospital de Ensino da UNIFESP,1:47:54,5,Dr.Naomi Rico Cedraz,Oncologia Clinica,22:35
-318,Hospital de Ensino da UNIFESP,1:47:54,5,Dr.Emilia Braganca Breia,Cirurgia Plastica,27:20
-319,Hospital de Ensino da UNIFESP,1:47:54,5,Dr.Romao Laureano Anes,Cirurgia de Cabeca e Pescoco,21:00
-320,Hospital de Ensino da UNIFESP,1:47:54,5,Dr.Orlando Tome Meireles,Cirurgia do Aparelho Digestivo,13:43
-321,Hospital Meridional,1:47:54,44,Dr.Armaan Sarmento Estrada,Medicina Esportiva,15:12
-322,Hospital Meridional,1:47:54,44,Dr.Jacira Baia Fiaes,Hematologia e Hemoterapia,10:37
-323,Hospital Meridional,1:47:54,44,Dr.Gelson Aveiro Mota,Medicina Esportiva,14:30
-324,Hospital Meridional,1:47:54,44,Dr.Iris Frois Serralheiro,Ginecologia e Obstetricia,23:30
-325,Hospital Meridional,1:47:54,44,Dr.Eleonor Murteira Alvaro,Cirurgia Vascular,26:53
-326,Hospital Meridional,1:47:54,44,Dr.Matteo Quinaz Aranha,Medicina de Familia e Comunidade,16:53
-327,Hospital Meridional,1:47:54,44,Dr.Heloisa Morais Casqueira,Pediatria,23:32
-328,Hospital Meridional,1:47:54,44,Dr.Andressa Ferraz Oliveira,Nefrologia,26:45
-329,Hospital Meridional,1:47:54,44,Dr.Flavio Picanco Cavalheiro,Cirurgia Toracica,13:08
-330,Hospital Meridional,1:47:54,44,Dr.Arina Vasconcelos Malafaia,Endoscopia,27:10
-331,Hospital Meridional,1:47:54,44,Dr.Gloria Lalanda Lemos,Medicina de Emergencia,16:03
-332,Hospital Meridional,1:47:54,44,Dr.Iris Caires Franco,Anestesiologista,09:55
-333,Hospital Meridional,1:47:54,44,Dr.Henzo Portela Redondo,Urologia,13:00
-334,Hospital Meridional,1:47:54,44,Dr.Irene Condorcet Salomao,Medicina do Trabalho,16:18
-335,Hospital Meridional,1:47:54,44,Dr.Melanie Valcacer Camelo,Cirurgia Oncologica,20:50
-336,Hospital Meridional,1:47:54,44,Dr.Helder Neto Varejao,Otorrinolaringologia,15:18
-337,Hospital Meridional,1:47:54,44,Dr.Ze Cordeiro Milhaes,Geriatria,08:44
-338,Hospital Meridional,1:47:54,44,Dr.Edir Minho Prestes,Ortopedia e Traumatologia,17:39
-339,Hospital Divina Providencia,1:47:54,22,Dr.Kaua Pereira Prestes,Medicina Fisica e Reabilitacao,08:35
-340,Hospital Divina Providencia,1:47:54,22,Dr.Valeria Valadares Cunha,Urologia,18:42
-341,Hospital Divina Providencia,1:47:54,22,Dr.Erick Couceiro Nascimento,Pneumologia,25:34
-342,Hospital Divina Providencia,1:47:54,22,Dr.Valentina Ulhoa Carreira,Geriatria,15:24
-343,Hospital Divina Providencia,1:47:54,22,Dr.Yara Adao Rico,Medicina Legal e Pericia Medica,26:58
-344,Hospital Divina Providencia,1:47:54,22,Dr.Kayla Seixas Figueiro,Cirurgia Cardiovascular,20:48
-345,Hospital Divina Providencia,1:47:54,22,Dr.Brahim Cedraz Porto,Cirurgia Oncologica,17:07
-346,Hospital Divina Providencia,1:47:54,22,Dr.Celine Lameirinhas Caiado,Urologia,24:26
-347,Hospital Divina Providencia,1:47:54,22,Dr.Flor Ninharelhos Sacadura,Cirurgia Cardiovascular,25:26
-348,Hospital Divina Providencia,1:47:54,22,Dr.Ionara Caetano Rebocho,Cirurgia do Aparelho Digestivo,27:42
-349,Hospital Divina Providencia,1:47:54,22,Dr.Michele Caiado Caldas,Medicina de Familia e Comunidade,12:42
-350,Hospital Divina Providencia,1:47:54,22,Dr.Eunice Rosario Mexia,Medicina de Familia e Comunidade,17:35
-351,Hospital Divina Providencia,1:47:54,22,Dr.Edir Camilo Gentil,Gastroenterologia,11:15
-352,Hospital Divina Providencia,1:47:54,22,Dr.Thayra Murteira Dias,Dermatologia,21:09
-353,Hospital Divina Providencia,1:47:54,22,Dr.Gilberto Liberato Mafra,Alergia e Imunologia,16:27
-354,Hospital Sao Lucas,1:47:54,35,Dr.Amira Fialho Trindade,Dermatologia,08:01
-355,Hospital Sao Lucas,1:47:54,35,Dr.Belchior Alencar Vilarinho,Cirurgia do Aparelho Digestivo,21:31
-356,Hospital Sao Lucas,1:47:54,35,Dr.Hermano Infante Cangueiro,Cirurgia da Mao,07:45
-357,Hospital Sao Lucas,1:47:54,35,Dr.Cadija Faro Baptista,Oncologia Clinica,13:05
-358,Hospital Sao Lucas,1:47:54,35,Dr.Bernardo Madureira Rocha,Cirurgia Toracica,09:16
-359,Hospital Sao Lucas,1:47:54,35,Dr.Jeremias Ornelas Rosa,Cirurgia da Mao,18:49
-360,Hospital Sao Lucas,1:47:54,35,Dr.Neide Lousa Valgueiro,Medicina Nuclear,10:44
-361,Hospital Sao Lucas,1:47:54,35,Dr.Penelope Quintana Muxagata,Neurologia,24:21
-362,Hospital Sao Lucas,1:47:54,35,Dr.Elizabet Cardim Igrejas,Cirurgia Toracica,10:06
-363,Hospital Sao Lucas,1:47:54,35,Dr.Diana Ferraco Rios,Homeopatia,25:15
-364,Hospital Sao Lucas,1:47:54,35,Dr.Amora Sampaio Bacelar,Radioterapia,22:52
-365,Hospital Sao Lucas,1:47:54,35,Dr.Christopher Mainha Fidalgo,Medicina do Trabalho,18:04
-366,Hospital Sao Lucas,1:47:54,35,Dr.Kristian Bonilha Alcantara,Cirurgia Toracica,15:19
-367,Hospital Sao Lucas,1:47:54,35,Dr.Joaquim Valgueiro Soveral,Ginecologia e Obstetricia,21:39
-368,Hospital Sao Lucas,1:47:54,35,Dr.Erica Moura Vidal,Angiologia,27:34
-369,Hospital Sao Lucas,1:47:54,35,Dr.Lisandra Guedes Zagalo,Medicina Nuclear,16:28
-370,Hospital Sao Lucas,1:47:54,35,Dr.Lisandro Vilanova Festas,Endocrinologia e Metabologia,26:55
-371,Hospital Sao Lucas,1:47:54,35,Dr.Fernanda Migueis Rodovalho,Patologia,13:26
-372,Hospital Vila da Serra,1:47:54,8,Dr.Telma Fortunato Quintal,Oftalmologia,08:30
-373,Hospital Vila da Serra,1:47:54,8,Dr.Evelyn Osorio Salgado,Neurocirurgia,21:00
-374,Hospital Vila da Serra,1:47:54,8,Dr.Albert Pecego Cabeca,Ortopedia e Traumatologia,13:30
-375,Hospital Vila da Serra,1:47:54,8,Dr.Gabriella Penteado Girao,Cirurgia Geral,23:03
-376,Hospital Vila da Serra,1:47:54,8,Dr.Julio Abranches Duarte,Psiquiatria,23:37
-377,Hospital Vila da Serra,1:47:54,8,Dr.Djelissa Arouca Sacadura,Infectologia,19:04
-378,Hospital Vila da Serra,1:47:54,8,Dr.Diamantino Lameirinhas Cabeca de Vaca,Cirurgia Plastica,21:15
-379,Hospital Vila da Serra,1:47:54,8,Dr.Eliel Fitas Peixoto,Medicina de Emergencia,21:26
-380,Hospital Vila da Serra,1:47:54,8,Dr.Arianna Quaresma Mortagua,Ortopedia e Traumatologia,17:30
-381,Hospital Vila da Serra,1:47:54,8,Dr.Chelsea Araujo Viana,Dermatologia,26:58
-382,Hospital Vila da Serra,1:47:54,8,Dr.Kendra Mendonca Foquico,Medicina do Trabalho,24:22
-383,Hospital Parana,1:47:54,16,Dr.Noe Castanho Galindo,Medicina Esportiva,08:24
-384,Hospital Parana,1:47:54,16,Dr.Elvira Resende Letras,Cirurgia de Cabeca e Pescoco,25:13
-385,Hospital Parana,1:47:54,16,Dr.Rafaela Amoedo Aldeia,Reumatologia,17:42
-386,Hospital Parana,1:47:54,16,Dr.Aicha Couto Cadavez,Nefrologia,20:05
-387,Hospital Parana,1:47:54,16,Dr.Marcelo Girao Fortunato,Neurocirurgia,23:15
-388,Hospital Parana,1:47:54,16,Dr.Lola Robalinho Barrico,Endoscopia,19:17
-389,Hospital Parana,1:47:54,16,Dr.Andria Vilas Boas Amado,Medicina Preventiva e Social,19:13
-390,Hospital Parana,1:47:54,16,Dr.Yasmina Fazendeiro Severo,Medicina do Trabalho,08:33
-391,Hospital Parana,1:47:54,16,Dr.Aleksandra Matoso Homem,Cirurgia Cardiovascular,14:57
-392,Hospital Parana,1:47:54,16,Dr.Nikita Pedro Frajuca,Medicina do Trabalho,13:42
-393,Hospital Parana,1:47:54,16,Dr.Djelissa Soares Tabanez,Medicina Intensiva,09:46
-394,Hospital Parana,1:47:54,16,Dr.Maira Canadas Ninharelhos,Gastroenterologia,12:21
-395,Hospital Edmundo Vasconcelos,1:47:54,38,Dr.Gina Leiria Curvelo,Neurocirurgia,13:24
-396,Hospital Edmundo Vasconcelos,1:47:54,38,Dr.Ariela Galante Valente,Psiquiatria,10:03
-397,Hospital Edmundo Vasconcelos,1:47:54,38,Dr.Marcia Sardo Lourenco,Alergia e Imunologia,11:58
-398,Hospital Edmundo Vasconcelos,1:47:54,38,Dr.Aliana Vides Lustosa,Hematologia e Hemoterapia,25:18
-399,Hospital Edmundo Vasconcelos,1:47:54,38,Dr.Nilson Guimaraes Frade,Ginecologia e Obstetricia,17:45
-400,Hospital Edmundo Vasconcelos,1:47:54,38,Dr.Isaura Marcal Melo,Cirurgia da Mao,19:44
-401,Hospital Edmundo Vasconcelos,1:47:54,38,Dr.Ze Gabeira Fartaria,Reumatologia,22:38
-402,Hospital Edmundo Vasconcelos,1:47:54,38,Dr.Dominika Quesado Santarem,Patologia,07:46
-403,Hospital Samaritano,1:47:54,21,Dr.Inaaya Parreir Regalado,Cirurgia Oncologica,25:48
-404,Hospital Samaritano,1:47:54,21,Dr.Jesse Valcacer Gameiro,Genetica Medica,16:25
-405,Hospital Samaritano,1:47:54,21,Dr.Eliel Rebimbas Silveira,Radioterapia,17:25
-406,Hospital Samaritano,1:47:54,21,Dr.Merces Temes Furquim,Patologia Clinica,23:05
-407,Hospital Samaritano,1:47:54,21,Dr.Mariano Franca Nogueira,Cirurgia do Aparelho Digestivo,17:53
-408,Hospital Samaritano,1:47:54,21,Dr.Fatumata Alcoforado Barbalho,Otorrinolaringologia,20:23
-409,Hospital Samaritano,1:47:54,21,Dr.Luzia Cavalheiro Novais,Cirurgia Vascular,14:32
-410,Hospital Samaritano,1:47:54,21,Dr.Carmen Ponte Granja,Medicina de Emergencia,20:22
-411,Hospital Samaritano,1:47:54,21,Dr.Dadiva Talhao Borges,Medicina de Emergencia,11:48
-412,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Aminata Holanda Torres,Nefrologia,26:09
-413,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Reinaldo Lagoa Assuncao,Cirurgia Cardiovascular,08:35
-414,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Alexandre Teodoro Onofre,Ortopedia e Traumatologia,11:42
-415,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Celine Chousa Feira,Oftalmologia,13:45
-416,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Manel Colares Conde,Ortopedia e Traumatologia,21:49
-417,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Karolina Galante Farias,Medicina do Trabalho,12:19
-418,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Ruben Hernandes Nolasco,Medicina Nuclear,20:45
-419,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Lunna Valcanaia Abranches,Coloproctologia,24:08
-420,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Adrian Sesimbra Gameiro,Endocrinologia e Metabologia,15:31
-421,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Kirill Atilano Rebotim,Endoscopia,22:29
-422,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Stephanie Curvelo Damasio,Medicina de Trafego,12:07
-423,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Jessie Feitosa Covinha,Urologia,15:43
-424,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Yuri Frajuca Lucas,Cirurgia da Mao,22:00
-425,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Martim Lara Franqueira,Pneumologia,25:41
-426,Hospital Santa Rita de Cassia Vitoria,1:47:54,12,Dr.Rayane Faro Valente,Radioterapia,21:48
+1,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Alcino Clementino Lameiras,Medicina Esportiva,3:02:23
+2,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Marcus Boto Carvalheiro,Medicina de Trafego,3:13:32
+3,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Melissa Penteado Lago,Alergia e Imunologia,3:11:59
+4,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Stefan Castilhos Colares,Psiquiatria,3:16:52
+5,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Pandora Pederneiras Espirito Santo,Cirurgia do Aparelho Digestivo,3:20:13
+6,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Diego Aleixo Bulhosa,Cirurgia Plastica,3:17:29
+7,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Ari Cacoilo Veleda,Endocrinologia e Metabologia,3:13:27
+8,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Neymar Paula Sarmento,Cirurgia da Mao,3:14:03
+9,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Cecilia Lira Silvestre,Cirurgia Pediatrica,3:14:49
+10,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Lola Belchior Parente,Cirurgia Pediatrica,3:19:17
+11,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Destiny Bacelar Vale,Dermatologia,3:09:45
+12,Hospital Israelita Albert Einstein,4:42:22,22,Dr.Luena Palmeira Resende,Medicina de Trafego,3:15:33
+13,Hospital Sirio Libanes,4:42:22,43,Dr.Poliana Peralta Matos,Geriatria,3:02:46
+14,Hospital Sirio Libanes,4:42:22,43,Dr.Mohammad Frade Cedro,Geriatria,3:20:31
+15,Hospital Sirio Libanes,4:42:22,43,Dr.Catalina Madeira Cabral,Coloproctologia,3:02:51
+16,Hospital Sirio Libanes,4:42:22,43,Dr.Carmo Taveiros Franqueira,Geriatria,3:17:16
+17,Hospital Sirio Libanes,4:42:22,43,Dr.Arina Ines Resende,Cirurgia Cardiovascular,3:10:41
+18,Hospital Sirio Libanes,4:42:22,43,Dr.Giovanni Vilas Boas Cirne,Medicina de Familia e Comunidade,3:10:40
+19,Hospital Sirio Libanes,4:42:22,43,Dr.Aurora Malta Garcez,Medicina de Trafego,3:21:28
+20,Hospital Sirio Libanes,4:42:22,43,Dr.Silvia Carrilho Pestana,Patologia,3:13:54
+21,Hospital Sirio Libanes,4:42:22,43,Dr.Rubim Monteiro Cantanhede,Reumatologia,3:15:18
+22,Hospital Sirio Libanes,4:42:22,43,Dr.Kelvin Saldanha Queiros,Nefrologia,3:21:17
+23,Hospital Sirio Libanes,4:42:22,43,Dr.Carminho Orrica Padua,Anestesiologista,3:04:15
+24,Hospital Sirio Libanes,4:42:22,43,Dr.Adonai Leao Peseiro,Genetica Medica,3:06:54
+25,Hospital Oswaldo Cruz,4:42:22,22,Dr.Lua Santos Salgueiro,Medicina Fisica e Reabilitacao,3:10:00
+26,Hospital Oswaldo Cruz,4:42:22,22,Dr.Maximo Conde Cidreira,Medicina Esportiva,3:20:05
+27,Hospital Oswaldo Cruz,4:42:22,22,Dr.Maxim Regueira Cedraz,Oncologia Clinica,3:12:32
+28,Hospital Oswaldo Cruz,4:42:22,22,Dr.Samira Eanes Malta,Cirurgia Pediatrica,3:16:25
+29,Hospital Oswaldo Cruz,4:42:22,22,Dr.Paulo Letras Vilar,Neurologia,3:10:48
+30,Hospital Oswaldo Cruz,4:42:22,22,Dr.Leticia Mota Quadros,Cirurgia Cardiovascular,3:21:54
+31,Hospital Oswaldo Cruz,4:42:22,22,Dr.Zoe Flores Almada,Infectologia,3:15:24
+32,Hospital Oswaldo Cruz,4:42:22,22,Dr.Ezequiel Teixeira Araujo,Radiologia,3:12:35
+33,Hospital Oswaldo Cruz,4:42:22,22,Dr.Renato Estrela Cerveira,Cirurgia de Cabeca e Pescoco,3:08:04
+34,Hospital Oswaldo Cruz,4:42:22,22,Dr.Hao Melo Mourinho,Reumatologia,3:09:24
+35,Hospital Oswaldo Cruz,4:42:22,22,Dr.Tyron Pimentel Zarco,Otorrinolaringologia,3:15:10
+36,Hospital Oswaldo Cruz,4:42:22,22,Dr.Eusebio Bairros Sacadura,Medicina Preventiva e Social,3:16:58
+37,Hospital Oswaldo Cruz,4:42:22,22,Dr.Leo Tavares Temes,Cirurgia Oncologica,3:03:21
+38,Hospital Oswaldo Cruz,4:42:22,22,Dr.Carol Quintal Ninharelhos,Hematologia e Hemoterapia,3:08:02
+39,Hospital Oswaldo Cruz,4:42:22,22,Dr.Janice Moutinho Noite,Ginecologia e Obstetricia,3:16:34
+40,Hospital Oswaldo Cruz,4:42:22,22,Dr.Jia Melo Matoso,Angiologia,3:03:10
+41,Hospital Oswaldo Cruz,4:42:22,22,Dr.Vladimir Cavadas Carromeu,Nefrologia,3:16:59
+42,Hospital Oswaldo Cruz,4:42:22,22,Dr.Aryan Santana Coelho,Genetica Medica,3:21:25
+43,Hospital Oswaldo Cruz,4:42:22,22,Dr.Radija Cadavez Cotrim,Patologia Clinica,3:12:48
+44,Hospital Oswaldo Cruz,4:42:22,22,Dr.Kimberly Meira Sobral,Genetica Medica,3:07:30
+45,Hospital Oswaldo Cruz,4:42:22,22,Dr.Samuel Jesus Bettencourt,Medicina de Trafego,3:10:50
+46,Hospital Oswaldo Cruz,4:42:22,22,Dr.Prapti Vilela Coimbra,Nefrologia,3:13:48
+47,Hospital Oswaldo Cruz,4:42:22,22,Dr.Amelia Cirne Quinta,Mastologia,3:15:53
+48,Hospital Oswaldo Cruz,4:42:22,22,Dr.Tierri Varao Sandinha,Infectologia,3:08:47
+49,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Evandro Chamusca Raposo,Angiologia,3:03:11
+50,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Sergio Osorio Bras,Homeopatia,3:10:47
+51,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Yaqi Caiado Passarinho,Medicina Legal e Pericia Medica,3:20:56
+52,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Soraia Keil Faia,Oftalmologia,3:12:49
+53,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Hermano Naves Rico,Oncologia Clinica,3:13:13
+54,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Maisa Teves Anlicoara,Pneumologia,3:17:41
+55,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Maximo Cangueiro Vilas Boas,Nefrologia,3:11:47
+56,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Zelia Graca Canhao,Cirurgia do Aparelho Digestivo,3:11:03
+57,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Sol Simao Franca,Patologia,3:10:55
+58,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Omar Caeira Lucena,Psiquiatria,3:05:17
+59,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Matheus Piteira Quental,Dermatologia,3:20:07
+60,Hospital da Universidade de Sao Paulo,4:42:22,23,Dr.Eliana Muniz Salazar,Cirurgia Oncologica,3:21:01
+61,Hospital Moinhos de Vento,4:42:22,6,Dr.Ellie Valim Judice,Neurologia,3:04:10
+62,Hospital Moinhos de Vento,4:42:22,6,Dr.Taynara Baia Bentes,Medicina de Emergencia,3:09:55
+63,Hospital Moinhos de Vento,4:42:22,6,Dr.Briana Rios Cangueiro,Endocrinologia e Metabologia,3:04:03
+64,Hospital Moinhos de Vento,4:42:22,6,Dr.Vitor Pimentel Redondo,Medicina de Familia e Comunidade,3:10:06
+65,Hospital Moinhos de Vento,4:42:22,6,Dr.Zaqueu Prestes Passos,Cirurgia Vascular,3:09:09
+66,Hospital Moinhos de Vento,4:42:22,6,Dr.Carina Pestana Pais,Patologia Clinica,3:21:59
+67,Hospital Moinhos de Vento,4:42:22,6,Dr.Frederica Pacheco Osorio,Cardiologia,3:13:15
+68,Hospital Moinhos de Vento,4:42:22,6,Dr.Mellyssa Soverosa Fitas,Patologia Clinica,3:04:11
+69,Hospital Moinhos de Vento,4:42:22,6,Dr.Calebe Corte-Real Guilheiro,Cirurgia Cardiovascular,3:02:44
+70,Hospital Moinhos de Vento,4:42:22,6,Dr.Catalina Junqueira Duraes,Nefrologia,3:11:46
+71,Hospital Moinhos de Vento,4:42:22,6,Dr.Liam Pais Tristao,Nefrologia,3:10:13
+72,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Darius Paulos Cabeca de Vaca,Geriatria,3:05:33
+73,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Damien Ginjeira Noronha,Dermatologia,3:04:20
+74,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Eva Cirne Rosario,Medicina Preventiva e Social,3:11:22
+75,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Marlene Pegado Canario,Cirurgia Vascular,3:09:50
+76,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Zion Moreira Castro,Medicina Preventiva e Social,3:16:32
+77,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Iris Mata Morgado,Neurocirurgia,3:14:09
+78,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Jack Parreir Palma,Cirurgia de Cabeca e Pescoco,3:06:27
+79,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Filomena Maciel Mascarenhas,Anestesiologista,3:20:11
+80,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Louisa Sardo Ornelas,Medicina Preventiva e Social,3:08:37
+81,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Lucia Manso Carmona,Medicina Esportiva,3:20:47
+82,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Maxim Angelim Rico,Cirurgia Toracica,3:03:11
+83,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Dilan Neres Grangeia,Oncologia Clinica,3:17:14
+84,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Hawa Pedroso Lustosa,Medicina Intensiva,3:15:15
+85,Sao Luiz Unidade Morumbi,4:42:22,34,Dr.Janilson Pires Carvalhal,Medicina de Trafego,3:19:29
+86,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Daniela Viana Picanco,Endoscopia,3:19:53
+87,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Lorena Ventura Amaral,Psiquiatria,3:02:29
+88,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Janice Lamenha Graca,Neurocirurgia,3:17:42
+89,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Anastacia Lousa Antunes,Geriatria,3:04:49
+90,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Dalila Anlicoara Zambujal,Medicina de Trafego,3:10:38
+91,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Rute Carvalhosa Chaves,Mastologia,3:10:59
+92,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Bento Oleiro Frias,Cirurgia Cardiovascular,3:03:00
+93,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Alice Leiria Eiro,Nefrologia,3:07:50
+94,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Nour Caiado Rico,Ginecologia e Obstetricia,3:18:06
+95,Sao Luiz Unidade Analia Franco,4:42:22,16,Dr.Alvin Ferro Furquim,Cirurgia do Aparelho Digestivo,3:21:54
+96,Hospital Mae de Deus,4:42:22,17,Dr.KellY Seabra Keil,Ginecologia e Obstetricia,3:21:25
+97,Hospital Mae de Deus,4:42:22,17,Dr.Melania Paredes Resende,Neurologia,3:11:04
+98,Hospital Mae de Deus,4:42:22,17,Dr.Jacinto Castilhos Delgado,Cirurgia de Cabeca e Pescoco,3:18:51
+99,Hospital Mae de Deus,4:42:22,17,Dr.Maximo Mieiro Abreu,Neurocirurgia,3:04:21
+100,Hospital Mae de Deus,4:42:22,17,Dr.Luis Corte-Real Tristao,Hematologia e Hemoterapia,3:05:22
+101,Hospital Mae de Deus,4:42:22,17,Dr.Zhen Curvelo Guerra,Medicina Esportiva,3:16:51
+102,Hospital Mae de Deus,4:42:22,17,Dr.Simona Cacoilo Patricio,Oncologia Clinica,3:08:40
+103,Hospital Mae de Deus,4:42:22,17,Dr.Ana Freitas Franqueira,Otorrinolaringologia,3:18:52
+104,Hospital Mae de Deus,4:42:22,17,Dr.Mara Maranhao Curado,Cirurgia Plastica,3:14:27
+105,Hospital Mae de Deus,4:42:22,17,Dr.Martinho Figueiroa Igrejas,Geriatria,3:08:20
+106,Hospital Mae de Deus,4:42:22,17,Dr.Josefa Lessa Cabeca,Medicina do Trabalho,3:02:39
+107,Hospital Mae de Deus,4:42:22,17,Dr.Rayanne Antunes Medeiros,Geriatria,3:19:00
+108,IMIP,4:42:22,37,Dr.Angela Figueiro Fitas,Medicina Legal e Pericia Medica,3:12:16
+109,IMIP,4:42:22,37,Dr.Hayla Caeiro Cabreira,Nefrologia,3:05:15
+110,IMIP,4:42:22,37,Dr.Silvia Mansilha Mourao,Radioterapia,3:05:06
+111,IMIP,4:42:22,37,Dr.Rubia Inacio Caminha,Urologia,3:04:42
+112,IMIP,4:42:22,37,Dr.Bela Rico Telinhos,Cirurgia Pediatrica,3:18:29
+113,IMIP,4:42:22,37,Dr.Kayla Neiva Figueira,Neurocirurgia,3:17:48
+114,IMIP,4:42:22,37,Dr.Nikolai Gois Mourinho,Clinica Medica,3:04:15
+115,IMIP,4:42:22,37,Dr.Alba Negromonte Pastana,Cirurgia Vascular,3:17:29
+116,Hospital Santa Paula,4:42:22,33,Dr.Alexandr Pimenta Tinoco,Mastologia,3:19:00
+117,Hospital Santa Paula,4:42:22,33,Dr.Grace Neres Narvais,Cirurgia de Cabeca e Pescoco,3:11:28
+118,Hospital Santa Paula,4:42:22,33,Dr.Emilly Alves Peseiro,Psiquiatria,3:19:47
+119,Hospital Santa Paula,4:42:22,33,Dr.Hayla Farinha Martinho,Nefrologia,3:08:15
+120,Hospital Santa Paula,4:42:22,33,Dr.Kiamy Franca Castelo,Homeopatia,3:09:28
+121,Hospital Santa Paula,4:42:22,33,Dr.Josiane Malho Lages,Anestesiologista,3:09:49
+122,Hospital Santa Paula,4:42:22,33,Dr.Fabia Ventura Reino,Cardiologia,3:12:47
+123,Hospital Santa Paula,4:42:22,33,Dr.Maya Anlicoara Ruas,Medicina do Trabalho,3:10:24
+124,Hospital Santa Paula,4:42:22,33,Dr.Sophie Bulhoes Miguel,Angiologia,3:21:14
+125,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Esther Filipe Homem,Medicina Fisica e Reabilitacao,3:04:48
+126,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Bilal Quinterno Vilaverde,Urologia,3:10:17
+127,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Aicha Ulhoa Regueira,Pneumologia,3:15:38
+128,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Mario Bentes Mainha,Genetica Medica,3:02:28
+129,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Tito Boeira Barrocas,Medicina Esportiva,3:18:04
+130,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Khadija Sobral Gaspar,Medicina Fisica e Reabilitacao,3:11:10
+131,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Luiz Granja Vilanova,Gastroenterologia,3:06:39
+132,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Tyler Zambujal Curado,Oncologia Clinica,3:12:19
+133,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Ndeye Falcao Domingues,Patologia Clinica,3:14:53
+134,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Ezra Lobato Barreno,Cirurgia do Aparelho Digestivo,3:19:17
+135,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Ruben Aleixo Jesus,Clinica Medica,3:20:42
+136,Beneficencia Portuguesa de SP,4:42:22,22,Dr.Guilherme Prada Mourao,Ginecologia e Obstetricia,3:08:04
+137,Santa Casa de Misericordia Passos,4:42:22,33,Dr.Destiny Milheiro Valido,Radioterapia,3:04:15
+138,Santa Casa de Misericordia Passos,4:42:22,33,Dr.Laurindo Bettencourt Taveira,Pneumologia,3:13:39
+139,Santa Casa de Misericordia Passos,4:42:22,33,Dr.Kyle Afonso Palos,Cirurgia Vascular,3:16:55
+140,Santa Casa de Misericordia Passos,4:42:22,33,Dr.Mohammed Gorjao Parafita,Dermatologia,3:22:05
+141,Santa Casa de Misericordia Passos,4:42:22,33,Dr.Luiz Melgaco Casqueira,Patologia,3:10:05
+142,Santa Casa de Misericordia Passos,4:42:22,33,Dr.Marilia Mota Aguiar,Medicina Fisica e Reabilitacao,3:13:23
+143,Santa Casa de Misericordia Passos,4:42:22,33,Dr.Johnny Bernardes Natal,Reumatologia,3:15:00
+144,Santa Casa de Misericordia Passos,4:42:22,33,Dr.Fernanda Quintana Faro,Cirurgia Cardiovascular,3:21:10
+145,Hospital Santa Catarina,4:42:22,13,Dr.Letizia Linhares Sardinha,Ginecologia e Obstetricia,3:13:34
+146,Hospital Santa Catarina,4:42:22,13,Dr.Cristiano Grangeia Baia,Cirurgia Pediatrica,3:10:04
+147,Hospital Santa Catarina,4:42:22,13,Dr.Luiz Fortes Roriz,Pneumologia,3:19:24
+148,Hospital Santa Catarina,4:42:22,13,Dr.Tyron Braga Guterres,Cirurgia Toracica,3:03:06
+149,Hospital Santa Catarina,4:42:22,13,Dr.Melody Lobato Natal,Radiologia,3:21:33
+150,Hospital Santa Catarina,4:42:22,13,Dr.Mario Beiriz Fitas,Infectologia,3:06:01
+151,Hospital Santa Catarina,4:42:22,13,Dr.Simon Fazendeiro Mirandela,Medicina de Familia e Comunidade,3:04:00
+152,Hospital Santa Catarina,4:42:22,13,Dr.Leon Farias Fortes,Homeopatia,3:14:48
+153,Hospital Santa Catarina,4:42:22,13,Dr.Mariana Beltrao Vilarica,Neurologia,3:06:14
+154,Hospital Santa Catarina,4:42:22,13,Dr.Camilo Noleto Carmona,Infectologia,3:04:28
+155,Sao Luiz Unidade Itaim,4:42:22,43,Dr.Danilo Cerqueira Hipolito,Radioterapia,3:15:12
+156,Sao Luiz Unidade Itaim,4:42:22,43,Dr.Luan Cedraz Branco,Cirurgia Plastica,3:02:58
+157,Sao Luiz Unidade Itaim,4:42:22,43,Dr.Agata Faustino Melancia,Cirurgia Geral,3:15:44
+158,Sao Luiz Unidade Itaim,4:42:22,43,Dr.Virgilio Charneca Grande,Medicina de Familia e Comunidade,3:05:32
+159,Sao Luiz Unidade Itaim,4:42:22,43,Dr.Flavio Torquato Lameiras,Cirurgia Vascular,3:11:20
+160,Sao Luiz Unidade Itaim,4:42:22,43,Dr.Maite Feira Felix,Cirurgia de Cabeca e Pescoco,3:09:53
+161,Sao Luiz Unidade Copa Dor ,4:42:22,6,Dr.Noa Caneira Talhao,Neurologia,3:11:05
+162,Sao Luiz Unidade Copa Dor ,4:42:22,6,Dr.Sara Horta Carvalhais,Cardiologia,3:07:12
+163,Sao Luiz Unidade Copa Dor ,4:42:22,6,Dr.Oscar Telinhos Silva,Oncologia Clinica,3:14:18
+164,Sao Luiz Unidade Copa Dor ,4:42:22,6,Dr.Elijah Leme Bras,Medicina Esportiva,3:13:16
+165,Sao Luiz Unidade Copa Dor ,4:42:22,6,Dr.Cintia Azevedo Camargo,Cirurgia Cardiovascular,3:18:48
+166,Sao Luiz Unidade Copa Dor ,4:42:22,6,Dr.Theo Valgueiro Cirne,Cirurgia Plastica,3:15:23
+167,Sao Luiz Unidade Copa Dor ,4:42:22,6,Dr.Nadia Castro Valadares,Medicina Esportiva,3:05:01
+168,Sao Luiz Unidade Copa Dor ,4:42:22,6,Dr.Joyce Valverde Marmou,Clinica Medica,3:22:09
+169,Centro Medico de Campinas,4:42:22,46,Dr.Patrick Azevedo Sardinha,Urologia,3:05:41
+170,Centro Medico de Campinas,4:42:22,46,Dr.Nilton Curado Sabala,Medicina de Familia e Comunidade,3:08:06
+171,Centro Medico de Campinas,4:42:22,46,Dr.Karolina Cavaco Ferro,Mastologia,3:06:17
+172,Centro Medico de Campinas,4:42:22,46,Dr.Nelio Inacio Tabanez,Cirurgia Geral,3:02:13
+173,Centro Medico de Campinas,4:42:22,46,Dr.Hawa Mortagua Agueda,Gastroenterologia,3:07:39
+174,Centro Medico de Campinas,4:42:22,46,Dr.Matilde Xisto Oliveira,Medicina do Trabalho,3:04:26
+175,Centro Medico de Campinas,4:42:22,46,Dr.Filipa Boto Aires,Patologia,3:19:27
+176,Centro Medico de Campinas,4:42:22,46,Dr.Lyara Varela Barroqueiro,Urologia,3:07:38
+177,Hospital Samaritano,4:42:22,29,Dr.Adriele Delgado Souto,Nefrologia,3:04:02
+178,Hospital Samaritano,4:42:22,29,Dr.Luke Ferraz Prada,Infectologia,3:19:38
+179,Hospital Samaritano,4:42:22,29,Dr.Ellen Terra Carqueijeiro,Infectologia,3:02:34
+180,Hospital Samaritano,4:42:22,29,Dr.Emilly Ribas Maranhao,Pneumologia,3:08:54
+181,Hospital Samaritano,4:42:22,29,Dr.Amanda Mexia Torrado,Medicina Preventiva e Social,3:16:54
+182,Hospital Samaritano,4:42:22,29,Dr.Elton Valadim Banha,Cirurgia Toracica,3:20:51
+183,Hospital Samaritano,4:42:22,29,Dr.Eric Salomao Taborda,Nefrologia,3:09:22
+184,Hospital Samaritano,4:42:22,29,Dr.Aicha Sardinha Carvalhais,Infectologia,3:18:40
+185,Hospital Samaritano,4:42:22,29,Dr.Tiara Ferreira Olaio,Genetica Medica,3:21:41
+186,Hospital Samaritano,4:42:22,29,Dr.Liany Pinhal Maranhao,Dermatologia,3:13:24
+187,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Edir Rodrigues Maranhao,Cirurgia Plastica,3:16:31
+188,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Assuncao Gois Cartaxo,Cirurgia Toracica,3:21:35
+189,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Kristian Marcondes Ulhoa,Medicina Nuclear,3:10:06
+190,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Erika Camacho Rodovalho,Medicina de Emergencia,3:21:40
+191,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Jacyara Mansilha Castilho,Endocrinologia e Metabologia,3:06:28
+192,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Mafalda Quaresma Fagundes,Gastroenterologia,3:15:18
+193,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Emma Graca Torquato,Coloproctologia,3:06:39
+194,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Rahyssa Dinis Rosa,Cirurgia Toracica,3:18:27
+195,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Fred Cavalheiro Soverosa,Cirurgia Oncologica,3:19:17
+196,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Sujana Mesquita Passarinho,Urologia,3:20:52
+197,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Rafaela Curado Lacerda,Nutrologia,3:08:06
+198,Hospital Ministro Costa Cavalcanti,4:42:22,34,Dr.Kael Varela Fartaria,Angiologia,3:13:21
+199,Santa Casa de Misericordia Maceio,4:42:22,11,Dr.Aida Cisneiros Goulao,Medicina de Trafego,3:18:48
+200,Santa Casa de Misericordia Maceio,4:42:22,11,Dr.Jimmy Zambujal Penha,Radioterapia,3:03:13
+201,Santa Casa de Misericordia Maceio,4:42:22,11,Dr.Aysha Judice Tristao,Urologia,3:11:23
+202,Santa Casa de Misericordia Maceio,4:42:22,11,Dr.Madalena Hernandes Valentim,Oftalmologia,3:15:07
+203,Santa Casa de Misericordia Maceio,4:42:22,11,Dr.Nicolae Areosa Fitas,Radiologia,3:18:22
+204,Santa Casa de Misericordia Maceio,4:42:22,11,Dr.Benjamin Pimentel Marcal,Cirurgia Pediatrica,3:20:19
+205,Hospital do Coracao,4:42:22,19,Dr.Luena Sabrosa Castelo Branco,Ortopedia e Traumatologia,3:03:42
+206,Hospital do Coracao,4:42:22,19,Dr.Miguela Azambuja Fortes,Reumatologia,3:21:44
+207,Hospital do Coracao,4:42:22,19,Dr.Gianluca Barateiro Curvelo,Cirurgia de Cabeca e Pescoco,3:18:43
+208,Hospital do Coracao,4:42:22,19,Dr.Mathias Miguel Resende,Cirurgia Geral,3:10:46
+209,Hospital do Coracao,4:42:22,19,Dr.Marlene Mexia Alvarenga,Alergia e Imunologia,3:20:37
+210,Hospital do Coracao,4:42:22,19,Dr.Teofilo Dourado Judice,Reumatologia,3:02:22
+211,Hospital do Coracao,4:42:22,19,Dr.Nayla Vigario Mateus,Pediatria,3:10:21
+212,Hospital do Coracao,4:42:22,19,Dr.Estefany Estrada Veleda,Clinica Medica,3:20:07
+213,Hospital 9 de Julho,4:42:22,42,Dr.Stefan Lancastre Couto,Radioterapia,3:19:16
+214,Hospital 9 de Julho,4:42:22,42,Dr.Hazael Quintana Figueiroa,Cirurgia de Cabeca e Pescoco,3:20:40
+215,Hospital 9 de Julho,4:42:22,42,Dr.Nathaniel Baia Severo,Medicina Nuclear,3:15:45
+216,Hospital 9 de Julho,4:42:22,42,Dr.Larissa Palma Carlos,Alergia e Imunologia,3:21:11
+217,Hospital 9 de Julho,4:42:22,42,Dr.Delia Saraiva Vilhena,Oftalmologia,3:13:23
+218,Hospital 9 de Julho,4:42:22,42,Dr.Enzo Vaz Ataide,Medicina do Trabalho,3:11:14
+219,Hospital 9 de Julho,4:42:22,42,Dr.Raissa Mantas Anes,Otorrinolaringologia,3:13:01
+220,Hospital 9 de Julho,4:42:22,42,Dr.Nicolly Brandao Viveiros,Medicina Legal e Pericia Medica,3:07:02
+221,Hospital 9 de Julho,4:42:22,42,Dr.Gilberto Rosmaninho Carvalheiro,Patologia,3:08:06
+222,Hospital 9 de Julho,4:42:22,42,Dr.Ismael Mainha Mortagua,Homeopatia,3:15:44
+223,Hospital Marcio Cunha,4:42:22,8,Dr.Manha Coimbra Lameira,Cirurgia da Mao,3:21:41
+224,Hospital Marcio Cunha,4:42:22,8,Dr.Stephanie Morao Castilho,Medicina Esportiva,3:20:22
+225,Hospital Marcio Cunha,4:42:22,8,Dr.Maximus Malafaia Henriques,Urologia,3:20:00
+226,Hospital Marcio Cunha,4:42:22,8,Dr.Nikolai Franco Lucena,Radiologia,3:14:23
+227,Hospital Marcio Cunha,4:42:22,8,Dr.Michele Jorge Barcelos,Cirurgia Plastica,3:09:54
+228,Hospital Marcio Cunha,4:42:22,8,Dr.Oseias Carregueiro Mexia,Angiologia,3:19:21
+434,Hospital Marcio Cunha,4:42:22,8,Dr.Andre Mourinho Guedes,Ortopedia e Traumatologia,3:08:55
+435,Hospital Marcio Cunha,4:42:22,8,Dr.Vasco Marins Capucho,Cirurgia Toracica,3:16:52
+436,Hospital Marcio Cunha,4:42:22,8,Dr.Gusttavo Matias Sobreira,Cirurgia Toracica,3:18:38
+437,Hospital Marcio Cunha,4:42:22,8,Dr.Ryan Mieiro Angelim,Medicina Nuclear,3:09:34
+229,Vitoria Apart Hospital,4:42:22,9,Dr.Giani Passos Azevedo,Otorrinolaringologia,3:11:42
+230,Vitoria Apart Hospital,4:42:22,9,Dr.Lurdes Caldas Freiria,Neurocirurgia,3:12:51
+231,Vitoria Apart Hospital,4:42:22,9,Dr.Olinda Rego Grangeia,Oftalmologia,3:19:55
+232,Vitoria Apart Hospital,4:42:22,9,Dr.Hao Paiva Cidreira,Medicina Fisica e Reabilitacao,3:04:20
+233,Vitoria Apart Hospital,4:42:22,9,Dr.Ranya Sardinha Peseiro,Oftalmologia,3:09:31
+234,Vitoria Apart Hospital,4:42:22,9,Dr.Atilio Vila-Cha Franca,Cirurgia Geral,3:05:03
+235,Vitoria Apart Hospital,4:42:22,9,Dr.Anastasia Saltao Moita,Oftalmologia,3:13:32
+236,Vitoria Apart Hospital,4:42:22,9,Dr.Zihao Bonilha Branco,Genetica Medica,3:07:51
+237,Vitoria Apart Hospital,4:42:22,9,Dr.Iuri Salazar Carreiro,Dermatologia,3:09:23
+238,Vitoria Apart Hospital,4:42:22,9,Dr.Erick Canhao Cesar,Medicina Esportiva,3:15:22
+433,Vitoria Apart Hospital,4:42:22,9,Dr.Guilherme Caiado Pimenta,Medicina de Emergencia,3:14:52
+438,Vitoria Apart Hospital,4:42:22,9,Dr.Diva Franca Assuncao,Endoscopia,3:11:03
+439,Vitoria Apart Hospital,4:42:22,9,Dr.Emilia Tabosa Monteiro,Geriatria,3:02:54
+440,Vitoria Apart Hospital,4:42:22,9,Dr.Ravidson Camacho Gomes,Genetica Medica,3:16:54
+239,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Fabricio Hernandes Porciuncula,Medicina de Familia e Comunidade,3:11:02
+240,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Aron Aguiar Sabrosa,Coloproctologia,3:16:04
+241,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Louisa Anlicoara Conceicao,Medicina de Emergencia,3:05:23
+242,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Miriam Alvelos Taborda,Cirurgia Oncologica,3:03:49
+243,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Catalin Caminha Leitao,Cirurgia Pediatrica,3:17:13
+244,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Chelsea Madruga Tabosa,Medicina Fisica e Reabilitacao,3:19:20
+245,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Sefora Lopes Baldaia,Medicina Intensiva,3:18:32
+441,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Kendrick Quintanilha Lisboa,Medicina de Emergencia,3:03:24
+442,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Mauricio Fialho Gentil,Cirurgia do Aparelho Digestivo,3:19:37
+443,Hospital Mater dei Santo Agostinho,4:42:22,11,Dr.Paloma Ruas Vides,Neurologia,3:04:50
+246,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Agostinho Cavaco Bras,Cardiologia,3:15:41
+247,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Jayson Viegas Liberato,Nefrologia,3:16:27
+248,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Telma Garcia Cascais,Mastologia,3:18:43
+249,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Geovana Moutinho Barroqueiro,Angiologia,3:10:24
+250,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Joana Salgado Castro,Ginecologia e Obstetricia,3:08:09
+251,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Mohammed Ximenes Gois,Otorrinolaringologia,3:14:43
+252,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Yanni Taveiros Prado,Ginecologia e Obstetricia,3:14:56
+253,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Yannis Lamego Rufino,Cirurgia Plastica,3:07:20
+254,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Lian Melancia Holanda,Cirurgia de Cabeca e Pescoco,3:04:28
+431,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Stephen Delgado Espinosa,Medicina de Trafego,3:03:14
+444,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Ranya Perdigao Lameirinhas,Oftalmologia,3:20:58
+445,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Nikita Azeredo Alvelos,Ginecologia e Obstetricia,3:02:50
+446,Santa Casa de Misericordia de Porto Alegre,4:42:22,2,Dr.Eder Viana Sales,Dermatologia,3:09:44
+255,Hospital Universitario da USP,4:42:22,20,Dr.Constanca Milheirico Carvalhosa,Oncologia Clinica,3:15:51
+256,Hospital Universitario da USP,4:42:22,20,Dr.Mellyssa Goulart Padilha,Coloproctologia,3:17:37
+257,Hospital Universitario da USP,4:42:22,20,Dr.Isabelly Rijo Queiros,Otorrinolaringologia,3:14:26
+258,Hospital Universitario da USP,4:42:22,20,Dr.Melissa Quinterno Malta,Cirurgia de Cabeca e Pescoco,3:19:32
+259,Hospital Universitario da USP,4:42:22,20,Dr.Dario Amado Mourao,Cirurgia Geral,3:19:29
+260,Hospital Universitario da USP,4:42:22,20,Dr.Esmeralda Uchoa Pinto,Medicina do Trabalho,3:09:19
+261,Hospital Universitario da USP,4:42:22,20,Dr.Aria Parafita Madruga,Cirurgia Vascular,3:13:54
+432,Hospital Universitario da USP,4:42:22,20,Dr.Linda Penha Cabral,Cirurgia Oncologica,3:14:12
+262,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Abilio Peralta Monte,Endoscopia,3:09:31
+263,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Alana Cirne Ferraco,Medicina de Trafego,3:10:01
+264,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Rute Carregueiro Figueiredo,Cirurgia da Mao,3:02:47
+265,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Pablo Temes Lamenha,Endocrinologia e Metabologia,3:08:06
+266,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Anais Trigueiro Ribeiro,Cirurgia Pediatrica,3:18:54
+267,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Maya Lemos Aires,Cirurgia Toracica,3:12:26
+268,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Iara Carmona Ferrao,Gastroenterologia,3:19:13
+269,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Kieza Abasto Ornelas,Cirurgia de Cabeca e Pescoco,3:07:02
+270,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Cassandra Avelar Damasio,Neurocirurgia,3:21:51
+427,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Luena Macena Bessa,Radioterapia,3:02:44
+447,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Anaisa Lamego Veiga,Endoscopia,3:16:49
+448,Hospital Sao Camilo Pompeia,4:42:22,25,Dr.Vilma Vilarica Reino,Medicina Esportiva,3:14:12
+271,Hospital Quinta Dor ,4:42:22,10,Dr.Erica Mansilha Camargo,Cirurgia Pediatrica,3:08:39
+272,Hospital Quinta Dor ,4:42:22,10,Dr.Telma Teles Mortagua,Medicina Fisica e Reabilitacao,3:10:40
+273,Hospital Quinta Dor ,4:42:22,10,Dr.Noah Urias Vilanova,Reumatologia,3:10:30
+274,Hospital Quinta Dor ,4:42:22,10,Dr.Dilnura Canica Neiva,Medicina Intensiva,3:10:40
+275,Hospital Quinta Dor ,4:42:22,10,Dr.Alvaro Faia Lousado,Medicina do Trabalho,3:21:05
+276,Hospital Quinta Dor ,4:42:22,10,Dr.Joel Faustino Castilho,Hematologia e Hemoterapia,3:06:44
+277,Hospital Quinta Dor ,4:42:22,10,Dr.Henrique Bingre Cardim,Medicina Legal e Pericia Medica,3:19:45
+428,Hospital Quinta Dor ,4:42:22,10,Dr.Iulian Marinho Delgado,Patologia Clinica,3:10:09
+449,Hospital Quinta Dor ,4:42:22,10,Dr.Lais Pacheco Curado,Cirurgia da Mao,3:16:29
+450,Hospital Quinta Dor ,4:42:22,10,Dr.Jimmy Porciuncula Moutinho,Pneumologia,3:02:35
+451,Hospital Quinta Dor ,4:42:22,10,Dr.Elsa Varao Maia,Medicina do Trabalho,3:02:25
+278,Centro Hospitalar Unimed,4:42:22,5,Dr.Janilson Sitima Lourenco,Cirurgia Vascular,3:03:17
+279,Centro Hospitalar Unimed,4:42:22,5,Dr.Lucca Charneca Barcelos,Alergia e Imunologia,3:17:32
+280,Centro Hospitalar Unimed,4:42:22,5,Dr.Graca Aires Brandao,Cirurgia Vascular,3:13:39
+281,Centro Hospitalar Unimed,4:42:22,5,Dr.Stefania Aguiar Pureza,Medicina Preventiva e Social,3:08:04
+282,Centro Hospitalar Unimed,4:42:22,5,Dr.Adriele Aguiar Bencatel,Ortopedia e Traumatologia,3:07:23
+283,Centro Hospitalar Unimed,4:42:22,5,Dr.Leonor Cadavez Alvim,Urologia,3:14:44
+429,Centro Hospitalar Unimed,4:42:22,5,Dr.Aleksandr Cotrim Eiro,Cirurgia Geral,3:19:05
+284,Hospital Monte Sinai,4:42:22,27,Dr.India Marcal Espirito Santo,Oftalmologia,3:15:28
+285,Hospital Monte Sinai,4:42:22,27,Dr.Eddy Sequeira Carvalhal,Neurologia,3:13:46
+286,Hospital Monte Sinai,4:42:22,27,Dr.Leticia Keil Tigre,Medicina Legal e Pericia Medica,3:19:07
+287,Hospital Monte Sinai,4:42:22,27,Dr.Jia Ilha Abrantes,Ortopedia e Traumatologia,3:10:24
+288,Hospital Monte Sinai,4:42:22,27,Dr.Eric Basilio Brasil,Reumatologia,3:10:47
+289,Hospital Monte Sinai,4:42:22,27,Dr.Sergio Milhaes Gabeira,Radioterapia,3:14:01
+290,Hospital Monte Sinai,4:42:22,27,Dr.Gabriella Rebotim Machado,Cardiologia,3:07:49
+291,Hospital Monte Sinai,4:42:22,27,Dr.Lyana Arruda Boga,Medicina de Trafego,3:16:02
+292,Hospital Monte Sinai,4:42:22,27,Dr.Nina Vargas Paiva,Nutrologia,3:12:45
+430,Hospital Monte Sinai,4:42:22,27,Dr.Uriel Bouca Rodovalho,Medicina de Emergencia,3:13:08
+293,Hospital Alvorada Moema,4:42:22,42,Dr.Carminho Cavadas Dutra,Medicina Intensiva,3:14:37
+294,Hospital Alvorada Moema,4:42:22,42,Dr.Cristina Fiuza Marreiro,Angiologia,3:18:26
+295,Hospital Alvorada Moema,4:42:22,42,Dr.Giovanni Goncalves Afonso,Cirurgia da Mao,3:03:12
+296,Hospital Alvorada Moema,4:42:22,42,Dr.Shayan Argolo Lima,Radiologia,3:18:17
+297,Hospital Alvorada Moema,4:42:22,42,Dr.Nalini Botica Pecanha,Radioterapia,3:14:56
+298,Hospital Alvorada Moema,4:42:22,42,Dr.Jaime Valadares Castilhos,Ortopedia e Traumatologia,3:12:22
+299,Hospital Alvorada Moema,4:42:22,42,Dr.Angela Pederneiras Carvalhal,Cirurgia Oncologica,3:21:56
+300,Hospital Alvorada Moema,4:42:22,42,Dr.Leandro Borges Novais,Gastroenterologia,3:05:32
+301,Hospital Alvorada Moema,4:42:22,42,Dr.Isabela Mariz Leao,Otorrinolaringologia,3:06:59
+302,Hospital Alvorada Moema,4:42:22,42,Dr.Enoque Camara Canhao,Urologia,3:07:13
+303,Hospital Alvorada Moema,4:42:22,42,Dr.Florbela Cacoilo Bandeira,Angiologia,3:04:30
+304,Hospital Alvorada Moema,4:42:22,42,Dr.Tais Canto Bingre,Patologia Clinica,3:18:39
+305,Hospital Alvorada Moema,4:42:22,42,Dr.Valentino Jamandas Caldeira,Medicina de Familia e Comunidade,3:04:03
+306,Hospital de Clinicas,4:42:22,16,Dr.Lucia Salomao Briao,Endoscopia,3:15:10
+307,Hospital de Clinicas,4:42:22,16,Dr.Mila Travassos Barreto,Coloproctologia,3:17:54
+308,Hospital de Clinicas,4:42:22,16,Dr.Stacy Alvelos Feira,Urologia,3:05:08
+309,Hospital de Clinicas,4:42:22,16,Dr.Giulia Dourado Catela,Dermatologia,3:14:02
+310,Hospital de Clinicas,4:42:22,16,Dr.Janilson Palha Almada,Dermatologia,3:06:03
+311,Hospital de Clinicas,4:42:22,16,Dr.Alba Carvalhosa Prestes,Alergia e Imunologia,3:10:46
+312,Hospital de Ensino da UNIFESP,4:42:22,5,Dr.Florbela Toste Vilela,Psiquiatria,3:04:41
+313,Hospital de Ensino da UNIFESP,4:42:22,5,Dr.Micael Proenca Abelho,Medicina de Trafego,3:07:09
+314,Hospital de Ensino da UNIFESP,4:42:22,5,Dr.Luis Quinta Reis,Geriatria,3:04:51
+315,Hospital de Ensino da UNIFESP,4:42:22,5,Dr.Frederico Cambezes Viana,Cirurgia Pediatrica,3:06:44
+316,Hospital de Ensino da UNIFESP,4:42:22,5,Dr.Katerina Bugalho Santana,Cirurgia Vascular,3:05:53
+317,Hospital de Ensino da UNIFESP,4:42:22,5,Dr.Naomi Rico Cedraz,Oncologia Clinica,3:17:03
+318,Hospital de Ensino da UNIFESP,4:42:22,5,Dr.Emilia Braganca Breia,Cirurgia Plastica,3:21:48
+319,Hospital de Ensino da UNIFESP,4:42:22,5,Dr.Romao Laureano Anes,Cirurgia de Cabeca e Pescoco,3:15:28
+320,Hospital de Ensino da UNIFESP,4:42:22,5,Dr.Orlando Tome Meireles,Cirurgia do Aparelho Digestivo,3:08:11
+321,Hospital Meridional,4:42:22,44,Dr.Armaan Sarmento Estrada,Medicina Esportiva,3:09:40
+322,Hospital Meridional,4:42:22,44,Dr.Jacira Baia Fiaes,Hematologia e Hemoterapia,3:05:05
+323,Hospital Meridional,4:42:22,44,Dr.Gelson Aveiro Mota,Medicina Esportiva,3:08:58
+324,Hospital Meridional,4:42:22,44,Dr.Iris Frois Serralheiro,Ginecologia e Obstetricia,3:17:58
+325,Hospital Meridional,4:42:22,44,Dr.Eleonor Murteira Alvaro,Cirurgia Vascular,3:21:21
+326,Hospital Meridional,4:42:22,44,Dr.Matteo Quinaz Aranha,Medicina de Familia e Comunidade,3:11:21
+327,Hospital Meridional,4:42:22,44,Dr.Heloisa Morais Casqueira,Pediatria,3:18:00
+328,Hospital Meridional,4:42:22,44,Dr.Andressa Ferraz Oliveira,Nefrologia,3:21:13
+329,Hospital Meridional,4:42:22,44,Dr.Flavio Picanco Cavalheiro,Cirurgia Toracica,3:07:36
+330,Hospital Meridional,4:42:22,44,Dr.Arina Vasconcelos Malafaia,Endoscopia,3:21:38
+331,Hospital Meridional,4:42:22,44,Dr.Gloria Lalanda Lemos,Medicina de Emergencia,3:10:31
+332,Hospital Meridional,4:42:22,44,Dr.Iris Caires Franco,Anestesiologista,3:04:23
+333,Hospital Meridional,4:42:22,44,Dr.Henzo Portela Redondo,Urologia,3:07:28
+334,Hospital Meridional,4:42:22,44,Dr.Irene Condorcet Salomao,Medicina do Trabalho,3:10:46
+335,Hospital Meridional,4:42:22,44,Dr.Melanie Valcacer Camelo,Cirurgia Oncologica,3:15:18
+336,Hospital Meridional,4:42:22,44,Dr.Helder Neto Varejao,Otorrinolaringologia,3:09:46
+337,Hospital Meridional,4:42:22,44,Dr.Ze Cordeiro Milhaes,Geriatria,3:03:12
+338,Hospital Meridional,4:42:22,44,Dr.Edir Minho Prestes,Ortopedia e Traumatologia,3:12:07
+339,Hospital Divina Providencia,4:42:22,22,Dr.Kaua Pereira Prestes,Medicina Fisica e Reabilitacao,3:03:03
+340,Hospital Divina Providencia,4:42:22,22,Dr.Valeria Valadares Cunha,Urologia,3:13:10
+341,Hospital Divina Providencia,4:42:22,22,Dr.Erick Couceiro Nascimento,Pneumologia,3:20:02
+342,Hospital Divina Providencia,4:42:22,22,Dr.Valentina Ulhoa Carreira,Geriatria,3:09:52
+343,Hospital Divina Providencia,4:42:22,22,Dr.Yara Adao Rico,Medicina Legal e Pericia Medica,3:21:26
+344,Hospital Divina Providencia,4:42:22,22,Dr.Kayla Seixas Figueiro,Cirurgia Cardiovascular,3:15:16
+345,Hospital Divina Providencia,4:42:22,22,Dr.Brahim Cedraz Porto,Cirurgia Oncologica,3:11:35
+346,Hospital Divina Providencia,4:42:22,22,Dr.Celine Lameirinhas Caiado,Urologia,3:18:54
+347,Hospital Divina Providencia,4:42:22,22,Dr.Flor Ninharelhos Sacadura,Cirurgia Cardiovascular,3:19:54
+348,Hospital Divina Providencia,4:42:22,22,Dr.Ionara Caetano Rebocho,Cirurgia do Aparelho Digestivo,3:22:10
+349,Hospital Divina Providencia,4:42:22,22,Dr.Michele Caiado Caldas,Medicina de Familia e Comunidade,3:07:10
+350,Hospital Divina Providencia,4:42:22,22,Dr.Eunice Rosario Mexia,Medicina de Familia e Comunidade,3:12:03
+351,Hospital Divina Providencia,4:42:22,22,Dr.Edir Camilo Gentil,Gastroenterologia,3:05:43
+352,Hospital Divina Providencia,4:42:22,22,Dr.Thayra Murteira Dias,Dermatologia,3:15:37
+353,Hospital Divina Providencia,4:42:22,22,Dr.Gilberto Liberato Mafra,Alergia e Imunologia,3:10:55
+354,Hospital Sao Lucas,4:42:22,35,Dr.Amira Fialho Trindade,Dermatologia,3:02:29
+355,Hospital Sao Lucas,4:42:22,35,Dr.Belchior Alencar Vilarinho,Cirurgia do Aparelho Digestivo,3:15:59
+356,Hospital Sao Lucas,4:42:22,35,Dr.Hermano Infante Cangueiro,Cirurgia da Mao,3:02:13
+357,Hospital Sao Lucas,4:42:22,35,Dr.Cadija Faro Baptista,Oncologia Clinica,3:07:33
+358,Hospital Sao Lucas,4:42:22,35,Dr.Bernardo Madureira Rocha,Cirurgia Toracica,3:03:44
+359,Hospital Sao Lucas,4:42:22,35,Dr.Jeremias Ornelas Rosa,Cirurgia da Mao,3:13:17
+360,Hospital Sao Lucas,4:42:22,35,Dr.Neide Lousa Valgueiro,Medicina Nuclear,3:05:12
+361,Hospital Sao Lucas,4:42:22,35,Dr.Penelope Quintana Muxagata,Neurologia,3:18:49
+362,Hospital Sao Lucas,4:42:22,35,Dr.Elizabet Cardim Igrejas,Cirurgia Toracica,3:04:34
+363,Hospital Sao Lucas,4:42:22,35,Dr.Diana Ferraco Rios,Homeopatia,3:19:43
+364,Hospital Sao Lucas,4:42:22,35,Dr.Amora Sampaio Bacelar,Radioterapia,3:17:20
+365,Hospital Sao Lucas,4:42:22,35,Dr.Christopher Mainha Fidalgo,Medicina do Trabalho,3:12:32
+366,Hospital Sao Lucas,4:42:22,35,Dr.Kristian Bonilha Alcantara,Cirurgia Toracica,3:09:47
+367,Hospital Sao Lucas,4:42:22,35,Dr.Joaquim Valgueiro Soveral,Ginecologia e Obstetricia,3:16:07
+368,Hospital Sao Lucas,4:42:22,35,Dr.Erica Moura Vidal,Angiologia,3:22:02
+369,Hospital Sao Lucas,4:42:22,35,Dr.Lisandra Guedes Zagalo,Medicina Nuclear,3:10:56
+370,Hospital Sao Lucas,4:42:22,35,Dr.Lisandro Vilanova Festas,Endocrinologia e Metabologia,3:21:23
+371,Hospital Sao Lucas,4:42:22,35,Dr.Fernanda Migueis Rodovalho,Patologia,3:07:54
+372,Hospital Vila da Serra,4:42:22,8,Dr.Telma Fortunato Quintal,Oftalmologia,3:02:58
+373,Hospital Vila da Serra,4:42:22,8,Dr.Evelyn Osorio Salgado,Neurocirurgia,3:15:28
+374,Hospital Vila da Serra,4:42:22,8,Dr.Albert Pecego Cabeca,Ortopedia e Traumatologia,3:07:58
+375,Hospital Vila da Serra,4:42:22,8,Dr.Gabriella Penteado Girao,Cirurgia Geral,3:17:31
+376,Hospital Vila da Serra,4:42:22,8,Dr.Julio Abranches Duarte,Psiquiatria,3:18:05
+377,Hospital Vila da Serra,4:42:22,8,Dr.Djelissa Arouca Sacadura,Infectologia,3:13:32
+378,Hospital Vila da Serra,4:42:22,8,Dr.Diamantino Lameirinhas Cabeca de Vaca,Cirurgia Plastica,3:15:43
+379,Hospital Vila da Serra,4:42:22,8,Dr.Eliel Fitas Peixoto,Medicina de Emergencia,3:15:54
+380,Hospital Vila da Serra,4:42:22,8,Dr.Arianna Quaresma Mortagua,Ortopedia e Traumatologia,3:11:58
+381,Hospital Vila da Serra,4:42:22,8,Dr.Chelsea Araujo Viana,Dermatologia,3:21:26
+382,Hospital Vila da Serra,4:42:22,8,Dr.Kendra Mendonca Foquico,Medicina do Trabalho,3:18:50
+383,Hospital Parana,4:42:22,16,Dr.Noe Castanho Galindo,Medicina Esportiva,3:02:52
+384,Hospital Parana,4:42:22,16,Dr.Elvira Resende Letras,Cirurgia de Cabeca e Pescoco,3:19:41
+385,Hospital Parana,4:42:22,16,Dr.Rafaela Amoedo Aldeia,Reumatologia,3:12:10
+386,Hospital Parana,4:42:22,16,Dr.Aicha Couto Cadavez,Nefrologia,3:14:33
+387,Hospital Parana,4:42:22,16,Dr.Marcelo Girao Fortunato,Neurocirurgia,3:17:43
+388,Hospital Parana,4:42:22,16,Dr.Lola Robalinho Barrico,Endoscopia,3:13:45
+389,Hospital Parana,4:42:22,16,Dr.Andria Vilas Boas Amado,Medicina Preventiva e Social,3:13:41
+390,Hospital Parana,4:42:22,16,Dr.Yasmina Fazendeiro Severo,Medicina do Trabalho,3:03:01
+391,Hospital Parana,4:42:22,16,Dr.Aleksandra Matoso Homem,Cirurgia Cardiovascular,3:09:25
+392,Hospital Parana,4:42:22,16,Dr.Nikita Pedro Frajuca,Medicina do Trabalho,3:08:10
+393,Hospital Parana,4:42:22,16,Dr.Djelissa Soares Tabanez,Medicina Intensiva,3:04:14
+394,Hospital Parana,4:42:22,16,Dr.Maira Canadas Ninharelhos,Gastroenterologia,3:06:49
+395,Hospital Edmundo Vasconcelos,4:42:22,38,Dr.Gina Leiria Curvelo,Neurocirurgia,3:07:52
+396,Hospital Edmundo Vasconcelos,4:42:22,38,Dr.Ariela Galante Valente,Psiquiatria,3:04:31
+397,Hospital Edmundo Vasconcelos,4:42:22,38,Dr.Marcia Sardo Lourenco,Alergia e Imunologia,3:06:26
+398,Hospital Edmundo Vasconcelos,4:42:22,38,Dr.Aliana Vides Lustosa,Hematologia e Hemoterapia,3:19:46
+399,Hospital Edmundo Vasconcelos,4:42:22,38,Dr.Nilson Guimaraes Frade,Ginecologia e Obstetricia,3:12:13
+400,Hospital Edmundo Vasconcelos,4:42:22,38,Dr.Isaura Marcal Melo,Cirurgia da Mao,3:14:12
+401,Hospital Edmundo Vasconcelos,4:42:22,38,Dr.Ze Gabeira Fartaria,Reumatologia,3:17:06
+402,Hospital Edmundo Vasconcelos,4:42:22,38,Dr.Dominika Quesado Santarem,Patologia,3:02:14
+403,Hospital Samaritano,4:42:22,21,Dr.Inaaya Parreir Regalado,Cirurgia Oncologica,3:20:16
+404,Hospital Samaritano,4:42:22,21,Dr.Jesse Valcacer Gameiro,Genetica Medica,3:10:53
+405,Hospital Samaritano,4:42:22,21,Dr.Eliel Rebimbas Silveira,Radioterapia,3:11:53
+406,Hospital Samaritano,4:42:22,21,Dr.Merces Temes Furquim,Patologia Clinica,3:17:33
+407,Hospital Samaritano,4:42:22,21,Dr.Mariano Franca Nogueira,Cirurgia do Aparelho Digestivo,3:12:21
+408,Hospital Samaritano,4:42:22,21,Dr.Fatumata Alcoforado Barbalho,Otorrinolaringologia,3:14:51
+409,Hospital Samaritano,4:42:22,21,Dr.Luzia Cavalheiro Novais,Cirurgia Vascular,3:09:00
+410,Hospital Samaritano,4:42:22,21,Dr.Carmen Ponte Granja,Medicina de Emergencia,3:14:50
+411,Hospital Samaritano,4:42:22,21,Dr.Dadiva Talhao Borges,Medicina de Emergencia,3:06:16
+412,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Aminata Holanda Torres,Nefrologia,3:20:37
+413,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Reinaldo Lagoa Assuncao,Cirurgia Cardiovascular,3:03:03
+414,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Alexandre Teodoro Onofre,Ortopedia e Traumatologia,3:06:10
+415,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Celine Chousa Feira,Oftalmologia,3:08:13
+416,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Manel Colares Conde,Ortopedia e Traumatologia,3:16:17
+417,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Karolina Galante Farias,Medicina do Trabalho,3:06:47
+418,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Ruben Hernandes Nolasco,Medicina Nuclear,3:15:13
+419,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Lunna Valcanaia Abranches,Coloproctologia,3:18:36
+420,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Adrian Sesimbra Gameiro,Endocrinologia e Metabologia,3:09:59
+421,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Kirill Atilano Rebotim,Endoscopia,3:16:57
+422,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Stephanie Curvelo Damasio,Medicina de Trafego,3:06:35
+423,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Jessie Feitosa Covinha,Urologia,3:10:11
+424,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Yuri Frajuca Lucas,Cirurgia da Mao,3:16:28
+425,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Martim Lara Franqueira,Pneumologia,3:20:09
+426,Hospital Santa Rita de Cassia Vitoria,4:42:22,12,Dr.Rayane Faro Valente,Radioterapia,3:16:16

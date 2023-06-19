@@ -18,7 +18,6 @@ def game():
 def search():
     select1 = request.form.get('hosp')
     select2 = request.form.get('esp')
-    print(select1 + ":" + select2)
     data = getLocalCentralInfo(select1, select2)
     createPage(data)
     return render_template('front.html')

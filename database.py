@@ -34,8 +34,6 @@ def run_db():
             db_Info = db.get_server_info()
             print("Connected to MySQL Server version ", db_Info)
 
-
-            ##TODO in loop
             while True:
                 cursor = db.cursor()
                 cursor.execute("select database();")
@@ -100,3 +98,64 @@ def run_db():
             cursor.close()
             db.close()
             print("MySQL db is closed")
+
+
+def run_query(hosp, esp):
+    try:
+
+        db = mysql.connector.connect(host='localhost', database='pei2', user='arthur', password='1234')
+
+        if db.is_connected():
+            db_Info = db.get_server_info()
+            print("Connected to MySQL Server version ", db_Info)
+            cursor = db.cursor()
+            cursor.execute("select database();")
+            record = cursor.fetchone()
+            print("You're connected to database: ", record)
+            cursor.execute(
+            "SELECT "
+            "`hospital`.`ID`, `hospital`.`NOME`, `hospital`.`TEMPO_ESPERA`, `hospital`.`NUM_PACIENTES`, `medico`.`NOME`, `medico`.`ESPECIALIDADE`, `medico`.`TEMPO_MED_ESPERA` "
+            "FROM "
+            "`medico` "
+            "LEFT "
+            "OUTER "
+            "JOIN"
+            "`hospital` "
+            "ON "
+            "`medico`.`ID_HOSPITAL` = `hospital`.`ID` "
+            "WHERE "
+            "`hospital`.`NOME` = %(hosp)s "
+            "AND "
+            "`medico`.`ESPECIALIDADE` = %(esp)s "
+            "UNION "
+            "SELECT "
+            "`hospital`.`ID`, `hospital`.`NOME`, `hospital`.`TEMPO_ESPERA`, `hospital`.`NUM_PACIENTES`, `medico`.`NOME`, `medico`.`ESPECIALIDADE`, `medico`.`TEMPO_MED_ESPERA` "
+            "FROM "
+            "`medico` "
+            "RIGHT "
+            "OUTER "
+            "JOIN "
+            "`hospital` "
+            "ON "
+            "`medico`.`ID_HOSPITAL` = `hospital`.`ID` "
+            "WHERE "
+            "`hospital`.`NOME` = %(hosp)s "
+            "AND "
+            "`medico`.`ESPECIALIDADE` = %(esp)s ",
+            ({'hosp': hosp, 'esp': esp}))
+            result = cursor.fetchall()
+            df = pd.DataFrame(result)
+            dfd = df.copy()
+            i = 0
+            for time in df[2]:
+                dfd.loc[i, 2] = secondsToMins(time)
+                i = i + 1
+            i = 0
+            for time in df[6]:
+                dfd.loc[i, 6] = secondsToMins(time)
+                i = i + 1
+            return dfd
+    except Error as e:
+        print("Error while connecting to MySQL", e)
+    finally:
+        return
